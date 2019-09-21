@@ -445,3 +445,8 @@
 * [43.2 仿射子集，凸集，超平面，半空间](di-si-shi-san-zhang-tu-ji-zhuihduo-mian-ti/43.2-fang-she-zi-ji-tu-ji-chao-ping-mian-ban-kong-jian.md)
 * [43.3 锥体，多面锥体和H-多面体](di-si-shi-san-zhang-tu-ji-zhuihduo-mian-ti/43.3-zhui-ti-duo-mian-zhui-ti-hehduo-mian-ti.md)
 
+## 第四十四章 线性程序
+
+* [44.1 线性程序，可行解，最优解](di-si-shi-si-zhang-xian-xing-cheng-xu/44.1-xian-xing-cheng-xu-ke-hang-jie-zui-you-jie.md)
+* [44.2 基本可行解与顶点](di-si-shi-si-zhang-xian-xing-cheng-xu/44.2-ji-ben-ke-hang-jie-yu-ding-dian.md)
+

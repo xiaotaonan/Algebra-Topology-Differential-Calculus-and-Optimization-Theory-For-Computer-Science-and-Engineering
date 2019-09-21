@@ -373,3 +373,11 @@
 * [34.5 PID上的有限生成模块](di-san-shi-si-zhang-mo-kuai-jian-jie-pid-shang-de-mo-kuai/34.5-pid-shang-de-you-xian-sheng-cheng-mo-kuai.md)
 * [34.6 标量环的扩张](di-san-shi-si-zhang-mo-kuai-jian-jie-pid-shang-de-mo-kuai/34.6-biao-liang-huan-de-kuo-zhang.md)
 
+## 第三十五章 正规形式;有理标准形式
+
+* [35.1 与内同态相关的扭转模](di-san-shi-wu-zhang-zheng-gui-xing-shi-you-li-biao-zhun-xing-shi/35.1-yu-nei-tong-tai-xiang-guan-de-niu-zhuan-mo.md)
+* [35.2 有理范式](di-san-shi-wu-zhang-zheng-gui-xing-shi-you-li-biao-zhun-xing-shi/35.2-you-li-fan-shi.md)
+* [35.3 有理规范范式，第二版](di-san-shi-wu-zhang-zheng-gui-xing-shi-you-li-biao-zhun-xing-shi/35.3-you-li-gui-fan-fan-shi-di-er-ban.md)
+* [35.4 重温Jordan式](di-san-shi-wu-zhang-zheng-gui-xing-shi-you-li-biao-zhun-xing-shi/35.4-zhong-wen-jordan-shi.md)
+* [35.5 Smith范式](di-san-shi-wu-zhang-zheng-gui-xing-shi-you-li-biao-zhun-xing-shi/35.5-smith-fan-shi.md)
+

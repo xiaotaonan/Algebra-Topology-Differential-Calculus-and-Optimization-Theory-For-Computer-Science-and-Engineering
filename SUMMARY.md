@@ -350,3 +350,17 @@
 * [32.11 对称代数](di-san-shi-er-zhang-zhang-liang-dai-shu/32.11-dui-cheng-dai-shu.md)
 * [32.12 答疑](di-san-shi-er-zhang-zhang-liang-dai-shu/32.12-da-yi.md)
 
+## 第三十三章 外张量幂与外代数
+
+* [33.1 外张量幂](di-san-shi-san-zhang-wai-zhang-liang-mi-yu-wai-dai-shu/33.1-wai-zhang-liang-mi.md)
+* [33.2 外部力量的基础](di-san-shi-san-zhang-wai-zhang-liang-mi-yu-wai-dai-shu/33.2-wai-bu-li-liang-de-ji-chu.md)
+* [33.3 关于外部幂的几个有用同构](di-san-shi-san-zhang-wai-zhang-liang-mi-yu-wai-dai-shu/33.3-guan-yu-wai-bu-mi-de-ji-ge-you-yong-tong-gou.md)
+* [33.4 外在力量的双重性](di-san-shi-san-zhang-wai-zhang-liang-mi-yu-wai-dai-shu/33.4-wai-zai-li-liang-de-shuang-zhong-xing.md)
+* [33.5 外代数](di-san-shi-san-zhang-wai-zhang-liang-mi-yu-wai-dai-shu/33.5-wai-dai-shu.md)
+* [33.6 Hodge \*- 运算符](di-san-shi-san-zhang-wai-zhang-liang-mi-yu-wai-dai-shu/33.6-hodge-yun-suan-fu.md)
+* [33.7 左右挂钩](di-san-shi-san-zhang-wai-zhang-liang-mi-yu-wai-dai-shu/33.7-zuo-you-gua-gou.md)
+* [33.8 测试可分解性](di-san-shi-san-zhang-wai-zhang-liang-mi-yu-wai-dai-shu/33.8-ce-shi-ke-fen-jie-xing.md)
+* [33.9 Grassmann-Pl¨ucker’方程和格拉斯曼式](di-san-shi-san-zhang-wai-zhang-liang-mi-yu-wai-dai-shu/33.9-grassmannplucker-fang-cheng-he-ge-la-si-man-shi.md)
+* [33.10 向量值交替形式](di-san-shi-san-zhang-wai-zhang-liang-mi-yu-wai-dai-shu/33.10-xiang-liang-zhi-jiao-ti-xing-shi.md)
+* [33.11 答疑](di-san-shi-san-zhang-wai-zhang-liang-mi-yu-wai-dai-shu/33.11-da-yi.md)
+

@@ -433,3 +433,9 @@
 * [41.3 单位球面上二次函数的最大化](di-si-shi-yi-zhang-er-ci-you-hua-wen-ti/41.3-dan-wei-qiu-mian-shang-er-ci-han-shu-de-zui-da-hua.md)
 * [41.4 小结](di-si-shi-yi-zhang-er-ci-you-hua-wen-ti/41.4-xiao-jie.md)
 
+## 第四十二章 Schur补体和应用
+
+* [42.1 Schur补体](di-si-shi-er-zhang-schur-bu-ti-he-ying-yong/42.1-schur-bu-ti.md)
+* [42.2 SPD矩阵和Schur补码](di-si-shi-er-zhang-schur-bu-ti-he-ying-yong/42.2-spd-ju-zhen-he-schur-bu-ma.md)
+* [42.3 SP半定矩阵和Schur补码](di-si-shi-er-zhang-schur-bu-ti-he-ying-yong/42.3-sp-ban-ding-ju-zhen-he-schur-bu-ma.md)
+

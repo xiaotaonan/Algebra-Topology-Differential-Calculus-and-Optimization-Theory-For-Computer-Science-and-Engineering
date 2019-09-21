@@ -53,7 +53,7 @@
 
 ## 第六章 行列式 <a id="di-liu-zhang-jue-ding-yin-su"></a>
 
-* [6.1 排列，排列的签名](di-liu-zhang-jue-ding-yin-su/6.1-pai-lie-pai-lie-de-qian-ming.md)
+* [6.1 排列,排列的签名](di-liu-zhang-jue-ding-yin-su/6.1-pai-lie-pai-lie-de-qian-ming.md)
 * [6.2 交替多线性图](di-liu-zhang-jue-ding-yin-su/6.2-jiao-ti-duo-xian-xing-tu.md)
 * [6.3 行列式的定义](di-liu-zhang-jue-ding-yin-su/6.3-hang-lie-shi-de-ding-yi.md)
 * [6.4 逆矩阵和行列式](di-liu-zhang-jue-ding-yin-su/6.4-ni-ju-zhen-he-hang-lie-shi.md)
@@ -64,4 +64,24 @@
 * [6.9 小结](di-liu-zhang-jue-ding-yin-su/6.9-xiao-jie.md)
 * [6.10 延展阅读](di-liu-zhang-jue-ding-yin-su/6.10-yan-zhan-yue-du.md)
 * [6.11 答疑](di-liu-zhang-jue-ding-yin-su/6.11-da-yi.md)
+
+## 第7章 高斯消元，LU，Cholesky，梯队形式
+
+* [7.1 激励示例：曲线插值](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.1-ji-li-shi-li-qu-xian-cha-zhi.md)
+* [7.2 高斯消元](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.2-gao-si-xiao-yuan.md)
+* [7.3 基本矩阵和行运算](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.3-ji-ben-ju-zhen-he-hang-yun-suan.md)
+* [7.4 LU因式分解](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.4-lu-yin-shi-fen-jie.md)
+* [7.5 PA = LU因式分解](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.5-pa-lu-yin-shi-fen-jie.md)
+* [7.6 定理证明7.5](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.6-ding-li-zheng-ming-7.5.md)
+* [7.7 处理舍入错误和重点策略](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.7-chu-li-she-ru-cuo-wu-he-zhong-dian-ce-lve.md)
+* [7.8 三对角矩阵的高斯消元](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.8-san-dui-jiao-ju-zhen-de-gao-si-xiao-yuan.md)
+* [7.9 SPD矩阵与Cholesky分解](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.9-spd-ju-zhen-yu-cholesky-fen-jie.md)
+* [7.10 行最简形](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.10-hang-zui-jian-xing.md)
+* [7.11 RREF,自由变量,同构系统](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.11-rref-zi-you-bian-liang-tong-gou-xi-tong.md)
+* [7.12 RREF的唯一性](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.12-rref-de-wei-yi-xing.md)
+* [7.13 使用RREF求解线性系统](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.13-shi-yong-rref-qiu-jie-xian-xing-xi-tong.md)
+* [7.14 基本矩阵和列运算](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.14-ji-ben-ju-zhen-he-lie-yun-suan.md)
+* [7.15 平移和膨胀](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.15-ping-yi-he-peng-zhang.md)
+* [7.16 小结](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.16-xiao-jie.md)
+* [7.17 答疑](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.17-da-yi.md)
 

@@ -176,3 +176,15 @@
 * [15.8 小结](shi-wu-zhang-so3-zhong-de-dan-yuan-si-yuan-shu-he-xuan-zhuan/15.8-xiao-jie.md)
 * [15.9 答疑](shi-wu-zhang-so3-zhong-de-dan-yuan-si-yuan-shu-he-xuan-zhuan/15.9-da-yi.md)
 
+## 十六章 谱定理
+
+* [16.1 介绍](shi-liu-zhang-pu-ding-li/16.1-jie-shao.md)
+* [16.2 法线线性映射：特征值和特征向量](shi-liu-zhang-pu-ding-li/16.2-fa-xian-xian-xing-ying-she-te-zheng-zhi-he-te-zheng-xiang-liang.md)
+* [16.3 法线线性映射的谱定理](shi-liu-zhang-pu-ding-li/16.3-fa-xian-xian-xing-ying-she-de-pu-ding-li.md)
+* [16.4 自伴和其他特殊线性映射](shi-liu-zhang-pu-ding-li/16.4-zi-ban-he-qi-ta-te-shu-xian-xing-ying-she.md)
+* [16.5 普通和其他特殊矩阵](shi-liu-zhang-pu-ding-li/16.5-pu-tong-he-qi-ta-te-shu-ju-zhen.md)
+* [16.6 Rayleigh–Ritz定理和特征值交错](shi-liu-zhang-pu-ding-li/16.6-rayleighritz-ding-li-he-te-zheng-zhi-jiao-cuo.md)
+* [16.7 courant-fischer定理;摄动结果](shi-liu-zhang-pu-ding-li/16.7-courantfischer-ding-li-she-dong-jie-guo.md)
+* [16.8 小结](shi-liu-zhang-pu-ding-li/16.8-xiao-jie.md)
+* [16.9 答疑](shi-liu-zhang-pu-ding-li/16.9-da-yi.md)
+

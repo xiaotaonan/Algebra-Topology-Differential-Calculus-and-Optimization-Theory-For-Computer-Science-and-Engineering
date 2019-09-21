@@ -241,3 +241,17 @@
 * [22.6 小结](er-shi-er-zhang-svd-he-wei-ni-de-ying-yong/22.6-xiao-jie.md)
 * [22.7 答疑](er-shi-er-zhang-svd-he-wei-ni-de-ying-yong/22.7-da-yi.md)
 
+## 二十三章 仿射几何基础
+
+* [23.1 仿射空间](er-shi-san-zhang-fang-she-ji-he-ji-chu/23.1-fang-she-kong-jian.md)
+* [23.2 仿射空间的例子](er-shi-san-zhang-fang-she-ji-he-ji-chu/23.2-fang-she-kong-jian-de-li-zi.md)
+* [23.3 Chasles的特征](er-shi-san-zhang-fang-she-ji-he-ji-chu/23.3-chasles-de-te-zheng.md)
+* [23.4 仿射组合，重心](er-shi-san-zhang-fang-she-ji-he-ji-chu/23.4-fang-she-zu-he-zhong-xin.md)
+* [23.5 仿射子空间](er-shi-san-zhang-fang-she-ji-he-ji-chu/23.5-fang-she-zi-kong-jian.md)
+* [23.6 仿射独立性和仿射框架](er-shi-san-zhang-fang-she-ji-he-ji-chu/23.6-fang-she-du-li-xing-he-fang-she-kuang-jia.md)
+* [23.7 仿射映射](er-shi-san-zhang-fang-she-ji-he-ji-chu/23.7-fang-she-ying-she.md)
+* [23.8 仿射群](er-shi-san-zhang-fang-she-ji-he-ji-chu/23.8-fang-she-qun.md)
+* [23.9 仿射几何](er-shi-san-zhang-fang-she-ji-he-ji-chu/23.9-fang-she-ji-he.md)
+* [23.10 仿射超平面](er-shi-san-zhang-fang-she-ji-he-ji-chu/23.10-fang-she-chao-ping-mian.md)
+* [23.11 仿射空间的交集](er-shi-san-zhang-fang-she-ji-he-ji-chu/23.11-fang-she-kong-jian-de-jiao-ji.md)
+

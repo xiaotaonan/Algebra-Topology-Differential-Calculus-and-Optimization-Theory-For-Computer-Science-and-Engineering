@@ -221,3 +221,13 @@
 * [20.2 绘图示例](er-shi-zhang-guang-pu-tu-hui-zhi/20.2-hui-tu-shi-li.md)
 * [20.3 小结](er-shi-zhang-guang-pu-tu-hui-zhi/20.3-xiao-jie.md)
 
+## 二十一章 奇异值分解和极坐标形式
+
+* [21.1 f \*◦f的性质](er-shi-yi-zhang-qi-yi-zhi-fen-jie-he-ji-zuo-biao-xing-shi/21.1-ffde-xing-zhi.md)
+* [21.2 平方矩阵的奇异值分解](er-shi-yi-zhang-qi-yi-zhi-fen-jie-he-ji-zuo-biao-xing-shi/21.2-ping-fang-ju-zhen-de-qi-yi-zhi-fen-jie.md)
+* [21.3 平方矩阵的极坐标形式](er-shi-yi-zhang-qi-yi-zhi-fen-jie-he-ji-zuo-biao-xing-shi/21.3-ping-fang-ju-zhen-de-ji-zuo-biao-xing-shi.md)
+* [21.4 矩形矩阵的奇异值分解](er-shi-yi-zhang-qi-yi-zhi-fen-jie-he-ji-zuo-biao-xing-shi/21.4-ju-xing-ju-zhen-de-qi-yi-zhi-fen-jie.md)
+* [21.5 Ky Fan范数和Schatten范数](er-shi-yi-zhang-qi-yi-zhi-fen-jie-he-ji-zuo-biao-xing-shi/21.5-ky-fan-fan-shu-he-schatten-fan-shu.md)
+* [21.6 小结](er-shi-yi-zhang-qi-yi-zhi-fen-jie-he-ji-zuo-biao-xing-shi/21.6-xiao-jie.md)
+* [21.7 答疑](er-shi-yi-zhang-qi-yi-zhi-fen-jie-he-ji-zuo-biao-xing-shi/21.7-da-yi.md)
+

@@ -398,3 +398,7 @@
 * [36.13 规范仿射空间](di-san-shi-liu-zhang-tuo-pu/36.13-gui-fan-fang-she-kong-jian.md)
 * [36.14 拓展阅读](di-san-shi-liu-zhang-tuo-pu/36.14-tuo-zhan-yue-du.md)
 
+## 第三十七章 分形绕道
+
+* [37.1 迭代函数系统与分形](di-san-shi-qi-zhang-fen-xing-rao-dao/37.1-die-dai-han-shu-xi-tong-yu-fen-xing.md)
+

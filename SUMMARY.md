@@ -37,10 +37,17 @@
 
 * [4.1 使用Haar小波进行信号压缩简介](di-si-zhang-haar-ji-haar-xiao-bo-hadamard-ju-zhen/4.1-shi-yong-haar-xiao-bo-jin-hang-xin-hao-ya-suo-jian-jie.md)
 * [4.2 Haar矩阵，缩放属性或Haar小波](di-si-zhang-haar-ji-haar-xiao-bo-hadamard-ju-zhen/4.2-haar-ju-zhen-suo-fang-shu-xing-huo-haar-xiao-bo.md)
-* [4.3 Haar矩阵的Kronecker产品构造](di-si-zhang-haar-ji-haar-xiao-bo-hadamard-ju-zhen/4.3-haar-ju-zhen-de-kronecker-chan-pin-gou-zao.md)
+* [4.3 Haar矩阵的Kronecker代数构造](di-si-zhang-haar-ji-haar-xiao-bo-hadamard-ju-zhen/4.3-haar-ju-zhen-de-kronecker-chan-pin-gou-zao.md)
 * [4.4 Haar基的多分辨率信号分析](di-si-zhang-haar-ji-haar-xiao-bo-hadamard-ju-zhen/4.4-haar-ji-de-duo-fen-bian-lv-xin-hao-fen-xi.md)
 * [4.5 用于数字图像的Haar变换](di-si-zhang-haar-ji-haar-xiao-bo-hadamard-ju-zhen/4.5-yong-yu-shu-zi-tu-xiang-de-haar-bian-huan.md)
 * [4.6 Hadamard矩阵](di-si-zhang-haar-ji-haar-xiao-bo-hadamard-ju-zhen/4.6-hadamard-ju-zhen.md)
 * [4.7 小结](di-si-zhang-haar-ji-haar-xiao-bo-hadamard-ju-zhen/4.7-xiao-jie.md)
 * [4.8 答疑](di-si-zhang-haar-ji-haar-xiao-bo-hadamard-ju-zhen/4.8-da-yi.md)
+
+## 第五章 直接求和
+
+* [5.1 和，直接求和，直积代数](di-wu-zhang-zhi-jie-qiu-he/5.1-he-zhi-jie-qiu-he-zhi-ji-dai-shu.md)
+* [5.2 秩为零定理； 格拉斯曼关系](di-wu-zhang-zhi-jie-qiu-he/5.2-zhi-wei-ling-ding-li-ge-la-si-man-guan-xi.md)
+* [5.3 小结](di-wu-zhang-zhi-jie-qiu-he/5.3-xiao-jie.md)
+* [5.4 答疑](di-wu-zhang-zhi-jie-qiu-he/5.4-da-yi.md)
 

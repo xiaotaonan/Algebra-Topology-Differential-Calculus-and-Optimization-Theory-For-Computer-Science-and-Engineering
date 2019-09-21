@@ -413,3 +413,10 @@
 * [38.7 向量场，协变导数，李括号](di-san-shi-ba-zhang-wei-fen-xue/38.7-xiang-liang-chang-xie-bian-dao-shu-li-kuo-hao.md)
 * [38.8 拓展阅读](di-san-shi-ba-zhang-wei-fen-xue/38.8-tuo-zhan-yue-du.md)
 
+## 第三十九章 实值函数的极值
+
+* [39.1 局部极值与拉格朗日乘子](di-san-shi-jiu-zhang-shi-zhi-han-shu-de-ji-zhi/39.1-ju-bu-ji-zhi-yu-la-ge-lang-ri-cheng-zi.md)
+* [39.2 用二阶导数求极值](di-san-shi-jiu-zhang-shi-zhi-han-shu-de-ji-zhi/39.2-yong-er-jie-dao-shu-qiu-ji-zhi.md)
+* [39.3 使用凸度查找极值](di-san-shi-jiu-zhang-shi-zhi-han-shu-de-ji-zhi/39.3-shi-yong-tu-du-cha-zhao-ji-zhi.md)
+* [39.4 小结](di-san-shi-jiu-zhang-shi-zhi-han-shu-de-ji-zhi/39.4-xiao-jie.md)
+

@@ -262,3 +262,22 @@
 * [24.3 Eˆ的另一种构造](er-shi-si-zhang-zai-xiang-liang-kong-jian-zhong-qian-ru-fang-she-kong-jian/24.3-e-de-ling-yi-zhong-gou-zao.md)
 * [24.4 仿射映射到线性映射的扩展](er-shi-si-zhang-zai-xiang-liang-kong-jian-zhong-qian-ru-fang-she-kong-jian/24.4-fang-she-ying-she-dao-xian-xing-ying-she-de-kuo-zhan.md)
 
+## 二十五章 投影几何基础
+
+* [25.1 为什么是投影空间？](er-shi-wu-zhang-tou-ying-ji-he-ji-chu/25.1-wei-shen-me-shi-tou-ying-kong-jian.md)
+* [25.2 射影空间](er-shi-wu-zhang-tou-ying-ji-he-ji-chu/25.2-she-ying-kong-jian.md)
+* [25.3 射影子空间](er-shi-wu-zhang-tou-ying-ji-he-ji-chu/25.3-she-ying-zi-kong-jian.md)
+* [25.4 投影框架](er-shi-wu-zhang-tou-ying-ji-he-ji-chu/25.4-tou-ying-kuang-jia.md)
+* [25.5 投影映射](er-shi-wu-zhang-tou-ying-ji-he-ji-chu/25.5-tou-ying-ying-she.md)
+* [25.6 查找两个投影帧之间的单应性](er-shi-wu-zhang-tou-ying-ji-he-ji-chu/25.6-cha-zhao-liang-ge-tou-ying-zhen-zhi-jian-de-dan-ying-xing.md)
+* [25.7 仿射补丁](er-shi-wu-zhang-tou-ying-ji-he-ji-chu/25.7-fang-she-bu-ding.md)
+* [25.8 仿射空间的射影完成](er-shi-wu-zhang-tou-ying-ji-he-ji-chu/25.8-fang-she-kong-jian-de-she-ying-wan-cheng.md)
+* [25.9 充分利用无限远处的超平面](er-shi-wu-zhang-tou-ying-ji-he-ji-chu/25.9-chong-fen-li-yong-wu-xian-yuan-chu-de-chao-ping-mian.md)
+* [25.10 交叉比率](er-shi-wu-zhang-tou-ying-ji-he-ji-chu/25.10-jiao-cha-bi-lv.md)
+* [25.11 同系物和同系物的不动点](er-shi-wu-zhang-tou-ying-ji-he-ji-chu/25.11-tong-xi-wu-he-tong-xi-wu-de-bu-dong-dian.md)
+* [25.12 投影几何的对偶](er-shi-wu-zhang-tou-ying-ji-he-ji-chu/25.12-tou-ying-ji-he-de-dui-ou.md)
+* [25.13 超平面的交叉比率](er-shi-wu-zhang-tou-ying-ji-he-ji-chu/25.13-chao-ping-mian-de-jiao-cha-bi-lv.md)
+* [25.14 真实投影空间的复杂化](er-shi-wu-zhang-tou-ying-ji-he-ji-chu/25.14-zhen-shi-tou-ying-kong-jian-de-fu-za-hua.md)
+* [25.15 投影空间上的相似结构](er-shi-wu-zhang-tou-ying-ji-he-ji-chu/25.15-tou-ying-kong-jian-shang-de-xiang-si-jie-gou.md)
+* [25.16 投影几何的一些应用](er-shi-wu-zhang-tou-ying-ji-he-ji-chu/25.16-tou-ying-ji-he-de-yi-xie-ying-yong.md)
+

@@ -6,4 +6,5 @@
 ## 第一章 群、环、字段
 
 * [1.1 群、子群、陪群](di-yi-zhang-qun-huan-zi-duan/untitled.md)
+* [1.2 循环群](di-yi-zhang-qun-huan-zi-duan/1.2-xun-huan-qun.md)
 

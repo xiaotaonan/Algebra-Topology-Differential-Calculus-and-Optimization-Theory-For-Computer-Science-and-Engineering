@@ -402,3 +402,14 @@
 
 * [37.1 迭代函数系统与分形](di-san-shi-qi-zhang-fen-xing-rao-dao/37.1-die-dai-han-shu-xi-tong-yu-fen-xing.md)
 
+## 第三十八章 微分学
+
+* [38.1 方向性导数，总导数](di-san-shi-ba-zhang-wei-fen-xue/38.1-fang-xiang-xing-dao-shu-zong-dao-shu.md)
+* [38.2 Jacobian矩阵](di-san-shi-ba-zhang-wei-fen-xue/38.2-jacobian-ju-zhen.md)
+* [38.3 隐函数和反函数定理](di-san-shi-ba-zhang-wei-fen-xue/38.3-yin-han-shu-he-fan-han-shu-ding-li.md)
+* [38.4 切空间与微分](di-san-shi-ba-zhang-wei-fen-xue/38.4-qie-kong-jian-yu-wei-fen.md)
+* [38.5 二阶和高阶导数](di-san-shi-ba-zhang-wei-fen-xue/38.5-er-jie-he-gao-jie-dao-shu.md)
+* [38.6 泰勒公式，fa'a di bruno公式](di-san-shi-ba-zhang-wei-fen-xue/38.6-tai-le-gong-shi-faa-di-bruno-gong-shi.md)
+* [38.7 向量场，协变导数，李括号](di-san-shi-ba-zhang-wei-fen-xue/38.7-xiang-liang-chang-xie-bian-dao-shu-li-kuo-hao.md)
+* [38.8 拓展阅读](di-san-shi-ba-zhang-wei-fen-xue/38.8-tuo-zhan-yue-du.md)
+

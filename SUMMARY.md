@@ -420,3 +420,9 @@
 * [39.3 使用凸度查找极值](di-san-shi-jiu-zhang-shi-zhi-han-shu-de-ji-zhi/39.3-shi-yong-tu-du-cha-zhao-ji-zhi.md)
 * [39.4 小结](di-san-shi-jiu-zhang-shi-zhi-han-shu-de-ji-zhi/39.4-xiao-jie.md)
 
+## 第四十章 牛顿法及其推广
+
+* [40.1 实变元实函数的牛顿法](di-si-shi-zhang-niu-dun-fa-ji-qi-tui-guang/40.1-shi-bian-yuan-shi-han-shu-de-niu-dun-fa.md)
+* [40.2 牛顿方法的推广](di-si-shi-zhang-niu-dun-fa-ji-qi-tui-guang/40.2-niu-dun-fang-fa-de-tui-guang.md)
+* [40.3 小结](di-si-shi-zhang-niu-dun-fa-ji-qi-tui-guang/40.3-xiao-jie.md)
+

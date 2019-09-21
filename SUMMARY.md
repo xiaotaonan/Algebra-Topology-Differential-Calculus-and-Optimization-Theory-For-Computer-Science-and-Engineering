@@ -335,3 +335,18 @@
 * [31.3 Noetherian环和Hilbert基础定理](di-san-shi-yi-zhang-ufdnoetherian-huan-hilbert-de-ji-ben-ding-li/31.3-noetherian-huan-he-hilbert-ji-chu-ding-li.md)
 * [31.4 拓展阅读](di-san-shi-yi-zhang-ufdnoetherian-huan-hilbert-de-ji-ben-ding-li/31.4-tuo-zhan-yue-du.md)
 
+## 第三十二章 张量代数
+
+* [32.1 线性代数预备知识：对偶空间和对](di-san-shi-er-zhang-zhang-liang-dai-shu/32.1-xian-xing-dai-shu-yu-bei-zhi-shi-dui-ou-kong-jian-he-dui.md)
+* [32.2 张量积](di-san-shi-er-zhang-zhang-liang-dai-shu/32.2-zhang-liang-ji.md)
+* [32.3 张量积基](di-san-shi-er-zhang-zhang-liang-dai-shu/32.3-zhang-liang-ji-ji.md)
+* [32.4 张量积的一些有用的同构](di-san-shi-er-zhang-zhang-liang-dai-shu/32.4-zhang-liang-ji-de-yi-xie-you-yong-de-tong-gou.md)
+* [32.5 张量积的对偶性](di-san-shi-er-zhang-zhang-liang-dai-shu/32.5-zhang-liang-ji-de-dui-ou-xing.md)
+* [32.6 张量代数](di-san-shi-er-zhang-zhang-liang-dai-shu/32.6-zhang-liang-dai-shu.md)
+* [32.7 对称张量幂](di-san-shi-er-zhang-zhang-liang-dai-shu/32.7-dui-cheng-zhang-liang-mi.md)
+* [32.8 对称幂的基](di-san-shi-er-zhang-zhang-liang-dai-shu/32.8-dui-cheng-mi-de-ji.md)
+* [32.9 对称幂的几个有用同构](di-san-shi-er-zhang-zhang-liang-dai-shu/32.9-dui-cheng-mi-de-ji-ge-you-yong-tong-gou.md)
+* [32.10 对称幂的对偶性](di-san-shi-er-zhang-zhang-liang-dai-shu/32.10-dui-cheng-mi-de-dui-ou-xing.md)
+* [32.11 对称代数](di-san-shi-er-zhang-zhang-liang-dai-shu/32.11-dui-cheng-dai-shu.md)
+* [32.12 答疑](di-san-shi-er-zhang-zhang-liang-dai-shu/32.12-da-yi.md)
+

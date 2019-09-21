@@ -215,3 +215,9 @@
 * [19.5 小结](shi-jiu-zhang-tu-he-tu-la-pu-la-si-suan-zi-ji-ben-shi-shi/19.5-xiao-jie.md)
 * [19.6 答疑](shi-jiu-zhang-tu-he-tu-la-pu-la-si-suan-zi-ji-ben-shi-shi/19.6-da-yi.md)
 
+## 二十章 光谱图绘制
+
+* [20.1 图形绘制和能量最小化](er-shi-zhang-guang-pu-tu-hui-zhi/20.1-tu-xing-hui-zhi-he-neng-liang-zui-xiao-hua.md)
+* [20.2 绘图示例](er-shi-zhang-guang-pu-tu-hui-zhi/20.2-hui-tu-shi-li.md)
+* [20.3 小结](er-shi-zhang-guang-pu-tu-hui-zhi/20.3-xiao-jie.md)
+

@@ -51,3 +51,17 @@
 * [5.3 小结](di-wu-zhang-zhi-jie-qiu-he/5.3-xiao-jie.md)
 * [5.4 答疑](di-wu-zhang-zhi-jie-qiu-he/5.4-da-yi.md)
 
+## 第六章 行列式 <a id="di-liu-zhang-jue-ding-yin-su"></a>
+
+* [6.1 排列，排列的签名](di-liu-zhang-jue-ding-yin-su/6.1-pai-lie-pai-lie-de-qian-ming.md)
+* [6.2 交替多线性图](di-liu-zhang-jue-ding-yin-su/6.2-jiao-ti-duo-xian-xing-tu.md)
+* [6.3 行列式的定义](di-liu-zhang-jue-ding-yin-su/6.3-hang-lie-shi-de-ding-yi.md)
+* [6.4 逆矩阵和行列式](di-liu-zhang-jue-ding-yin-su/6.4-ni-ju-zhen-he-hang-lie-shi.md)
+* [6.5 线性方程和行列式系统](di-liu-zhang-jue-ding-yin-su/6.5-xian-xing-fang-cheng-he-hang-lie-shi-xi-tong.md)
+* [6.6 线性映射的行列式](di-liu-zhang-jue-ding-yin-su/6.6-xian-xing-ying-she-de-hang-lie-shi.md)
+* [6.7 Cayley–Hamilton定理](di-liu-zhang-jue-ding-yin-su/6.7-cayleyhamilton-ding-li.md)
+* [6.8 积和式](di-liu-zhang-jue-ding-yin-su/6.8-ji-he-shi.md)
+* [6.9 小结](di-liu-zhang-jue-ding-yin-su/6.9-xiao-jie.md)
+* [6.10 延展阅读](di-liu-zhang-jue-ding-yin-su/6.10-yan-zhan-yue-du.md)
+* [6.11 答疑](di-liu-zhang-jue-ding-yin-su/6.11-da-yi.md)
+

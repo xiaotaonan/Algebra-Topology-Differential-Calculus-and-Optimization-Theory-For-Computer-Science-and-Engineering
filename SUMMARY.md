@@ -98,3 +98,13 @@
 * [8.9 小结](di-ba-zhang-xiang-liang-fan-shu-he-ju-zhen-fan-shu/8.9-xiao-jie.md)
 * [8.10 答疑](di-ba-zhang-xiang-liang-fan-shu-he-ju-zhen-fan-shu/8.10-da-yi.md)
 
+## 第九章 求解线性系统的迭代方法
+
+* [9.1 向量和矩阵序列的收敛](di-jiu-zhang-qiu-jie-xian-xing-xi-tong-de-die-dai-fang-fa/9.1-xiang-liang-he-ju-zhen-xu-lie-de-shou-lian.md)
+* [9.2 迭代方法的收敛性](di-jiu-zhang-qiu-jie-xian-xing-xi-tong-de-die-dai-fang-fa/9.2-die-dai-fang-fa-de-shou-lian-xing.md)
+* [9.3 Jacobi，Gauss-Seidel和Jacobi方法](di-jiu-zhang-qiu-jie-xian-xing-xi-tong-de-die-dai-fang-fa/9.3-jacobigaussseidel-he-jacobi-fang-fa.md)
+* [9.4 方法的收敛](di-jiu-zhang-qiu-jie-xian-xing-xi-tong-de-die-dai-fang-fa/9.4-fang-fa-de-shou-lian.md)
+* [9.5 三对角矩阵的收敛方法](di-jiu-zhang-qiu-jie-xian-xing-xi-tong-de-die-dai-fang-fa/9.5-san-dui-jiao-ju-zhen-de-shou-lian-fang-fa.md)
+* [9.6 小结](di-jiu-zhang-qiu-jie-xian-xing-xi-tong-de-die-dai-fang-fa/9.6-xiao-jie.md)
+* [9.7 总结](di-jiu-zhang-qiu-jie-xian-xing-xi-tong-de-die-dai-fang-fa/9.7-zong-jie.md)
+

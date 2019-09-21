@@ -200,3 +200,9 @@
 * [17.8 小结](shi-qi-zhang-ji-suan-te-zheng-zhi-he-te-zheng-xiang-liang/17.8-xiao-jie.md)
 * [17.9 答疑](shi-qi-zhang-ji-suan-te-zheng-zhi-he-te-zheng-xiang-liang/17.9-da-yi.md)
 
+## 十八章 有限元法简介
+
+* [18.1 一维问题：梁的弯曲](shi-ba-zhang-you-xian-yuan-fa-jian-jie/18.1-yi-wei-wen-ti-liang-de-wan-qu.md)
+* [18.2 二维问题：弹性膜](shi-ba-zhang-you-xian-yuan-fa-jian-jie/18.2-er-wei-wen-ti-tan-xing-mo.md)
+* [18.3 时变边界问题](shi-ba-zhang-you-xian-yuan-fa-jian-jie/18.3-shi-bian-bian-jie-wen-ti.md)
+

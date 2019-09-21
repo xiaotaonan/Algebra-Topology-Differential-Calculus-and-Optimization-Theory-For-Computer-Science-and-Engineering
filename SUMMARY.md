@@ -164,3 +164,15 @@
 * [14.6 小结](shi-si-zhang-te-zheng-xiang-liang-he-te-zheng-zhi/14.6-xiao-jie.md)
 * [14.7 答疑](shi-si-zhang-te-zheng-xiang-liang-he-te-zheng-zhi/14.7-da-yi.md)
 
+## 十五章 SO\(3\)中的单元四元数和旋转
+
+* [15.1 SU\(2\)群与四元数偏场H](shi-wu-zhang-so3-zhong-de-dan-yuan-si-yuan-shu-he-xuan-zhuan/15.1-su2-qun-yu-si-yuan-shu-pian-chang-h.md)
+* [15.2 SU\(2\)中的四元数表示SO\(3\)中的旋转](shi-wu-zhang-so3-zhong-de-dan-yuan-si-yuan-shu-he-xuan-zhuan/15.2-su2-zhong-de-si-yuan-shu-biao-shi-so3-zhong-de-xuan-zhuan.md)
+* [15.3 旋转rq的矩阵表示](shi-wu-zhang-so3-zhong-de-dan-yuan-si-yuan-shu-he-xuan-zhuan/15.3-xuan-zhuan-rq-de-ju-zhen-biao-shi.md)
+* [15.4 查找表示旋转的四元数的算法](shi-wu-zhang-so3-zhong-de-dan-yuan-si-yuan-shu-he-xuan-zhuan/15.4-cha-zhao-biao-shi-xuan-zhuan-de-si-yuan-shu-de-suan-fa.md)
+* [15.5 指数图exp：su\(2\)→SU\(2\)](shi-wu-zhang-so3-zhong-de-dan-yuan-si-yuan-shu-he-xuan-zhuan/15.5-zhi-shu-tu-expsu2su2.md)
+* [15.6 四元数插值](shi-wu-zhang-so3-zhong-de-dan-yuan-si-yuan-shu-he-xuan-zhuan/15.6-si-yuan-shu-cha-zhi.md)
+* [15.7 从SO\(3\)到SU\(2\)的“ Nice”部分不存在](shi-wu-zhang-so3-zhong-de-dan-yuan-si-yuan-shu-he-xuan-zhuan/15.7-cong-so3-dao-su2-de-nice-bu-fen-bu-cun-zai.md)
+* [15.8 小结](shi-wu-zhang-so3-zhong-de-dan-yuan-si-yuan-shu-he-xuan-zhuan/15.8-xiao-jie.md)
+* [15.9 答疑](shi-wu-zhang-so3-zhong-de-dan-yuan-si-yuan-shu-he-xuan-zhuan/15.9-da-yi.md)
+

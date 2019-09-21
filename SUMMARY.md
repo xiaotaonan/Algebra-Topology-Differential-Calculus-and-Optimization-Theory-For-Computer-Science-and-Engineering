@@ -106,5 +106,18 @@
 * [9.4 方法的收敛](di-jiu-zhang-qiu-jie-xian-xing-xi-tong-de-die-dai-fang-fa/9.4-fang-fa-de-shou-lian.md)
 * [9.5 三对角矩阵的收敛方法](di-jiu-zhang-qiu-jie-xian-xing-xi-tong-de-die-dai-fang-fa/9.5-san-dui-jiao-ju-zhen-de-shou-lian-fang-fa.md)
 * [9.6 小结](di-jiu-zhang-qiu-jie-xian-xing-xi-tong-de-die-dai-fang-fa/9.6-xiao-jie.md)
-* [9.7 总结](di-jiu-zhang-qiu-jie-xian-xing-xi-tong-de-die-dai-fang-fa/9.7-zong-jie.md)
+* [9.7 答疑](di-jiu-zhang-qiu-jie-xian-xing-xi-tong-de-die-dai-fang-fa/9.7-zong-jie.md)
+
+## 第十章 双重空间与双重性
+
+* [10.1 对偶空间E∗和线性范数](di-shi-zhang-shuang-zhong-kong-jian-yu-shuang-zhong-xing/10.1-dui-ou-kong-jianehe-xian-xing-fan-shu.md)
+* [10.2 E和E ∗之间的配对和对偶](di-shi-zhang-shuang-zhong-kong-jian-yu-shuang-zhong-xing/10.2-e-hee-zhi-jian-de-pei-dui-he-dui-ou.md)
+* [10.3 对偶定理和一些结果](di-shi-zhang-shuang-zhong-kong-jian-yu-shuang-zhong-xing/10.3-dui-ou-ding-li-he-yi-xie-jie-guo.md)
+* [10.4 双正则对](di-shi-zhang-shuang-zhong-kong-jian-yu-shuang-zhong-xing/10.4-shuang-zheng-ze-dui.md)
+* [10.5 超平面和线性范数](di-shi-zhang-shuang-zhong-kong-jian-yu-shuang-zhong-xing/10.5-chao-ping-mian-he-xian-xing-fan-shu.md)
+* [10.6 线性映射和矩阵的转置](di-shi-zhang-shuang-zhong-kong-jian-yu-shuang-zhong-xing/10.6-xian-xing-ying-she-he-ju-zhen-de-zhuan-zhi.md)
+* [10.7 双重移调的属性](di-shi-zhang-shuang-zhong-kong-jian-yu-shuang-zhong-xing/10.7-shuang-zhong-yi-tiao-de-shu-xing.md)
+* [10.8 四个基本子空间](di-shi-zhang-shuang-zhong-kong-jian-yu-shuang-zhong-xing/10.8-si-ge-ji-ben-zi-kong-jian.md)
+* [10.9 小结](di-shi-zhang-shuang-zhong-kong-jian-yu-shuang-zhong-xing/10.9-xiao-jie.md)
+* [10.10 答疑](di-shi-zhang-shuang-zhong-kong-jian-yu-shuang-zhong-xing/10.10-da-yi.md)
 

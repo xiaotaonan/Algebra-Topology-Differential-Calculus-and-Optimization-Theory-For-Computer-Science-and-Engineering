@@ -317,3 +317,14 @@
 * [29.6 多项式的根](er-shi-jiu-zhang-duo-xiang-shi-xiang-fa-yu-pids/29.6-duo-xiang-shi-de-gen.md)
 * [29.7 多项式插值\(拉格朗日，牛顿，埃尔米特\)](er-shi-jiu-zhang-duo-xiang-shi-xiang-fa-yu-pids/29.7-duo-xiang-shi-cha-zhi-la-ge-lang-ri-niu-dun-ai-er-mi-te.md)
 
+## 三十章 剪除多项式;主分解
+
+* [30.1 剪除多项式和最小多项式](san-shi-zhang-jian-chu-duo-xiang-shi-zhu-fen-jie/30.1-jian-chu-duo-xiang-shi-he-zui-xiao-duo-xiang-shi.md)
+* [30.2 可对角线性映射的最小多项式](san-shi-zhang-jian-chu-duo-xiang-shi-zhu-fen-jie/30.2-ke-dui-jiao-xian-xing-ying-she-de-zui-xiao-duo-xiang-shi.md)
+* [30.3 线性映射的交换族](san-shi-zhang-jian-chu-duo-xiang-shi-zhu-fen-jie/30.3-xian-xing-ying-she-de-jiao-huan-zu.md)
+* [30.4 主分解定理](san-shi-zhang-jian-chu-duo-xiang-shi-zhu-fen-jie/30.4-zhu-fen-jie-ding-li.md)
+* [30.5 Jordan分解](san-shi-zhang-jian-chu-duo-xiang-shi-zhu-fen-jie/30.5-jordan-fen-jie.md)
+* [30.6 幂等线性映射和Jordan形式](san-shi-zhang-jian-chu-duo-xiang-shi-zhu-fen-jie/30.6-mi-deng-xian-xing-ying-she-he-jordan-xing-shi.md)
+* [30.7 小结](san-shi-zhang-jian-chu-duo-xiang-shi-zhu-fen-jie/30.7-xiao-jie.md)
+* [30.8 答疑](san-shi-zhang-jian-chu-duo-xiang-shi-zhu-fen-jie/30.8-da-yi.md)
+

@@ -328,3 +328,10 @@
 * [30.7 小结](san-shi-zhang-jian-chu-duo-xiang-shi-zhu-fen-jie/30.7-xiao-jie.md)
 * [30.8 答疑](san-shi-zhang-jian-chu-duo-xiang-shi-zhu-fen-jie/30.8-da-yi.md)
 
+## 第三十一章 UFD,Noetherian环,Hilbert的基本定理
+
+* [31.1 唯一因子分解域\(因子环\)](di-san-shi-yi-zhang-ufdnoetherian-huan-hilbert-de-ji-ben-ding-li/31.1-wei-yi-yin-zi-fen-jie-yu-yin-zi-huan.md)
+* [31.2 中国剩余定理](di-san-shi-yi-zhang-ufdnoetherian-huan-hilbert-de-ji-ben-ding-li/31.2-zhong-guo-sheng-yu-ding-li.md)
+* [31.3 Noetherian环和Hilbert基础定理](di-san-shi-yi-zhang-ufdnoetherian-huan-hilbert-de-ji-ben-ding-li/31.3-noetherian-huan-he-hilbert-ji-chu-ding-li.md)
+* [31.4 拓展阅读](di-san-shi-yi-zhang-ufdnoetherian-huan-hilbert-de-ji-ben-ding-li/31.4-tuo-zhan-yue-du.md)
+

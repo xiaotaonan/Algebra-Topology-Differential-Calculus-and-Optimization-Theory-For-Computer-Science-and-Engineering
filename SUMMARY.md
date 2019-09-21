@@ -231,3 +231,13 @@
 * [21.6 小结](er-shi-yi-zhang-qi-yi-zhi-fen-jie-he-ji-zuo-biao-xing-shi/21.6-xiao-jie.md)
 * [21.7 答疑](er-shi-yi-zhang-qi-yi-zhi-fen-jie-he-ji-zuo-biao-xing-shi/21.7-da-yi.md)
 
+## 二十二章 SVD和伪逆的应用
+
+* [22.1 最小二乘问题和伪逆](er-shi-er-zhang-svd-he-wei-ni-de-ying-yong/22.1-zui-xiao-er-cheng-wen-ti-he-wei-ni.md)
+* [22.2 伪逆的性质](er-shi-er-zhang-svd-he-wei-ni-de-ying-yong/22.2-wei-ni-de-xing-zhi.md)
+* [22.3 数据压缩和SVD](er-shi-er-zhang-svd-he-wei-ni-de-ying-yong/22.3-shu-ju-ya-suo-he-svd.md)
+* [22.4 主成分分析\(PCA\)](er-shi-er-zhang-svd-he-wei-ni-de-ying-yong/22.4-zhu-cheng-fen-fen-xi-pca.md)
+* [22.5 最佳仿射近似](er-shi-er-zhang-svd-he-wei-ni-de-ying-yong/22.5-zui-jia-fang-she-jin-si.md)
+* [22.6 小结](er-shi-er-zhang-svd-he-wei-ni-de-ying-yong/22.6-xiao-jie.md)
+* [22.7 答疑](er-shi-er-zhang-svd-he-wei-ni-de-ying-yong/22.7-da-yi.md)
+

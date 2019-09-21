@@ -450,3 +450,11 @@
 * [44.1 线性程序，可行解，最优解](di-si-shi-si-zhang-xian-xing-cheng-xu/44.1-xian-xing-cheng-xu-ke-hang-jie-zui-you-jie.md)
 * [44.2 基本可行解与顶点](di-si-shi-si-zhang-xian-xing-cheng-xu/44.2-ji-ben-ke-hang-jie-yu-ding-dian.md)
 
+## 第四十五章 单纯形算法
+
+* [45.1 单纯形算法背后的思路](di-si-shi-wu-zhang-dan-chun-xing-suan-fa/45.1-dan-chun-xing-suan-fa-bei-hou-de-si-lu.md)
+* [45.2 一般的单纯形算法](di-si-shi-wu-zhang-dan-chun-xing-suan-fa/45.2-yi-ban-de-dan-chun-xing-suan-fa.md)
+* [45.3 如何有效地执行旋转步骤](di-si-shi-wu-zhang-dan-chun-xing-suan-fa/45.3-ru-he-you-xiao-di-zhi-hang-xuan-zhuan-bu-zhou.md)
+* [45.4 基于tableaux的单纯形算法](di-si-shi-wu-zhang-dan-chun-xing-suan-fa/45.4-ji-yu-tableaux-de-dan-chun-xing-suan-fa.md)
+* [45.5 单纯形法的计算效率](di-si-shi-wu-zhang-dan-chun-xing-suan-fa/45.5-dan-chun-xing-fa-de-ji-suan-xiao-lv.md)
+

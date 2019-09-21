@@ -85,3 +85,16 @@
 * [7.16 小结](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.16-xiao-jie.md)
 * [7.17 答疑](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.17-da-yi.md)
 
+## 第八章 向量范数和矩阵范数
+
+* [8.1 赋范空间](di-ba-zhang-xiang-liang-fan-shu-he-ju-zhen-fan-shu/8.1-fu-fan-kong-jian.md)
+* [8.2 矩阵范数](di-ba-zhang-xiang-liang-fan-shu-he-ju-zhen-fan-shu/8.2-ju-zhen-fan-shu.md)
+* [8.3 从属范数](di-ba-zhang-xiang-liang-fan-shu-he-ju-zhen-fan-shu/8.3-cong-shu-fan-shu.md)
+* [8.4 涉及从属范数的不等](di-ba-zhang-xiang-liang-fan-shu-he-ju-zhen-fan-shu/8.4-she-ji-cong-shu-fan-shu-de-bu-deng.md)
+* [8.5 矩阵的条件数](di-ba-zhang-xiang-liang-fan-shu-he-ju-zhen-fan-shu/8.5-ju-zhen-de-tiao-jian-shu.md)
+* [8.6 范数的应用：线性系统不一致](di-ba-zhang-xiang-liang-fan-shu-he-ju-zhen-fan-shu/8.6-fan-shu-de-ying-yong-xian-xing-xi-tong-bu-yi-zhi.md)
+* [8.7 序列和序列的极限](di-ba-zhang-xiang-liang-fan-shu-he-ju-zhen-fan-shu/8.7-xu-lie-he-xu-lie-de-ji-xian.md)
+* [8.8 矩阵指数](di-ba-zhang-xiang-liang-fan-shu-he-ju-zhen-fan-shu/8.8-ju-zhen-zhi-shu.md)
+* [8.9 小结](di-ba-zhang-xiang-liang-fan-shu-he-ju-zhen-fan-shu/8.9-xiao-jie.md)
+* [8.10 答疑](di-ba-zhang-xiang-liang-fan-shu-he-ju-zhen-fan-shu/8.10-da-yi.md)
+

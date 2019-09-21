@@ -2,6 +2,7 @@
 
 * [简介](README.md)
 * [前言](bian-zhe-xu-readmd.md.md)
+* [数学符号表](shu-xue-fu-hao-biao.md)
 
 ## 第一章 群、环、字段
 

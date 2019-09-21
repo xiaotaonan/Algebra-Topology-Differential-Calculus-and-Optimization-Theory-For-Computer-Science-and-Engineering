@@ -135,14 +135,14 @@
 * [11.10 小结](di-shi-yi-zhang-ou-shi-kong-jian/11.10-xiao-jie.md)
 * [11.11 答疑](di-shi-yi-zhang-ou-shi-kong-jian/11.11-da-yi.md)
 
-## 十二章 任意矩阵的QR分解
+## 第十二章 任意矩阵的QR分解 <a id="shi-er-zhang-ren-yi-ju-zhen-de-qr-fen-jie"></a>
 
 * [12.1 正交反射](shi-er-zhang-ren-yi-ju-zhen-de-qr-fen-jie/12.1-zheng-jiao-fan-she.md)
 * [12.2 使用Householders矩阵进行QR分解](shi-er-zhang-ren-yi-ju-zhen-de-qr-fen-jie/12.2-shi-yong-householders-ju-zhen-jin-hang-qr-fen-jie.md)
 * [12.3 小结](shi-er-zhang-ren-yi-ju-zhen-de-qr-fen-jie/12.3-xiao-jie.md)
 * [12.4 答疑](shi-er-zhang-ren-yi-ju-zhen-de-qr-fen-jie/12.4-da-yi.md)
 
-## 十三章 Hermitian空间
+## 第十三章 Hermitian空间 <a id="shi-san-zhang-hermitian-kong-jian"></a>
 
 * [13.1 埃尔米特空间，希尔伯特前空间](shi-san-zhang-hermitian-kong-jian/13.1-ai-er-mi-te-kong-jian-xi-er-bo-te-qian-kong-jian.md)
 * [13.2 线性映射的正交性，对偶性，伴随性](shi-san-zhang-hermitian-kong-jian/13.2-xian-xing-ying-she-de-zheng-jiao-xing-dui-ou-xing-ban-sui-xing.md)
@@ -154,7 +154,7 @@
 * [13.8 小结](shi-san-zhang-hermitian-kong-jian/13.8-xiao-jie.md)
 * [13.9 答疑](shi-san-zhang-hermitian-kong-jian/13.9-da-yi.md)
 
-## 十四章 特征向量和特征值
+## 第十四章 特征向量和特征值 <a id="shi-si-zhang-te-zheng-xiang-liang-he-te-zheng-zhi"></a>
 
 * [14.1 线性映射的特征向量和特征值](shi-si-zhang-te-zheng-xiang-liang-he-te-zheng-zhi/14.1-xian-xing-ying-she-de-te-zheng-xiang-liang-he-te-zheng-zhi.md)
 * [14.2 简化为上三角形式](shi-si-zhang-te-zheng-xiang-liang-he-te-zheng-zhi/14.2-jian-hua-wei-shang-san-jiao-xing-shi.md)
@@ -164,7 +164,7 @@
 * [14.6 小结](shi-si-zhang-te-zheng-xiang-liang-he-te-zheng-zhi/14.6-xiao-jie.md)
 * [14.7 答疑](shi-si-zhang-te-zheng-xiang-liang-he-te-zheng-zhi/14.7-da-yi.md)
 
-## 十五章 SO\(3\)中的单元四元数和旋转
+## 第十五章 SO\(3\)中的单元四元数和旋转 <a id="shi-wu-zhang-so3-zhong-de-dan-yuan-si-yuan-shu-he-xuan-zhuan"></a>
 
 * [15.1 SU\(2\)群与四元数偏场H](shi-wu-zhang-so3-zhong-de-dan-yuan-si-yuan-shu-he-xuan-zhuan/15.1-su2-qun-yu-si-yuan-shu-pian-chang-h.md)
 * [15.2 SU\(2\)中的四元数表示SO\(3\)中的旋转](shi-wu-zhang-so3-zhong-de-dan-yuan-si-yuan-shu-he-xuan-zhuan/15.2-su2-zhong-de-si-yuan-shu-biao-shi-so3-zhong-de-xuan-zhuan.md)
@@ -176,7 +176,7 @@
 * [15.8 小结](shi-wu-zhang-so3-zhong-de-dan-yuan-si-yuan-shu-he-xuan-zhuan/15.8-xiao-jie.md)
 * [15.9 答疑](shi-wu-zhang-so3-zhong-de-dan-yuan-si-yuan-shu-he-xuan-zhuan/15.9-da-yi.md)
 
-## 十六章 谱定理
+## 第十六章 谱定理 <a id="shi-liu-zhang-pu-ding-li"></a>
 
 * [16.1 介绍](shi-liu-zhang-pu-ding-li/16.1-jie-shao.md)
 * [16.2 法线线性映射：特征值和特征向量](shi-liu-zhang-pu-ding-li/16.2-fa-xian-xian-xing-ying-she-te-zheng-zhi-he-te-zheng-xiang-liang.md)
@@ -188,7 +188,7 @@
 * [16.8 小结](shi-liu-zhang-pu-ding-li/16.8-xiao-jie.md)
 * [16.9 答疑](shi-liu-zhang-pu-ding-li/16.9-da-yi.md)
 
-## 十七章 计算特征值和特征向量
+## 第十七章 计算特征值和特征向量 <a id="shi-qi-zhang-ji-suan-te-zheng-zhi-he-te-zheng-xiang-liang"></a>
 
 * [17.1 基本QR算法](shi-qi-zhang-ji-suan-te-zheng-zhi-he-te-zheng-xiang-liang/17.1-ji-ben-qr-suan-fa.md)
 * [17.2 黑森伯格矩阵](shi-qi-zhang-ji-suan-te-zheng-zhi-he-te-zheng-xiang-liang/17.2-hei-sen-bo-ge-ju-zhen.md)
@@ -200,13 +200,13 @@
 * [17.8 小结](shi-qi-zhang-ji-suan-te-zheng-zhi-he-te-zheng-xiang-liang/17.8-xiao-jie.md)
 * [17.9 答疑](shi-qi-zhang-ji-suan-te-zheng-zhi-he-te-zheng-xiang-liang/17.9-da-yi.md)
 
-## 十八章 有限元法简介
+## 第十八章 有限元法简介 <a id="shi-ba-zhang-you-xian-yuan-fa-jian-jie"></a>
 
 * [18.1 一维问题：梁的弯曲](shi-ba-zhang-you-xian-yuan-fa-jian-jie/18.1-yi-wei-wen-ti-liang-de-wan-qu.md)
 * [18.2 二维问题：弹性膜](shi-ba-zhang-you-xian-yuan-fa-jian-jie/18.2-er-wei-wen-ti-tan-xing-mo.md)
 * [18.3 时变边界问题](shi-ba-zhang-you-xian-yuan-fa-jian-jie/18.3-shi-bian-bian-jie-wen-ti.md)
 
-## 十九章 图和图拉普拉斯算子;基本事实
+## 第十九章 图和图拉普拉斯算子;基本事实 <a id="shi-jiu-zhang-tu-he-tu-la-pu-la-si-suan-zi-ji-ben-shi-shi"></a>
 
 * [19.1 有向图,无向图,加权图](shi-jiu-zhang-tu-he-tu-la-pu-la-si-suan-zi-ji-ben-shi-shi/19.1-you-xiang-tu-wu-xiang-tu-jia-quan-tu.md)
 * [19.2 图的拉普拉斯矩阵](shi-jiu-zhang-tu-he-tu-la-pu-la-si-suan-zi-ji-ben-shi-shi/19.2-tu-de-la-pu-la-si-ju-zhen.md)
@@ -215,13 +215,13 @@
 * [19.5 小结](shi-jiu-zhang-tu-he-tu-la-pu-la-si-suan-zi-ji-ben-shi-shi/19.5-xiao-jie.md)
 * [19.6 答疑](shi-jiu-zhang-tu-he-tu-la-pu-la-si-suan-zi-ji-ben-shi-shi/19.6-da-yi.md)
 
-## 二十章 光谱图绘制
+## 第二十章 光谱图绘制 <a id="er-shi-zhang-guang-pu-tu-hui-zhi"></a>
 
 * [20.1 图形绘制和能量最小化](er-shi-zhang-guang-pu-tu-hui-zhi/20.1-tu-xing-hui-zhi-he-neng-liang-zui-xiao-hua.md)
 * [20.2 绘图示例](er-shi-zhang-guang-pu-tu-hui-zhi/20.2-hui-tu-shi-li.md)
 * [20.3 小结](er-shi-zhang-guang-pu-tu-hui-zhi/20.3-xiao-jie.md)
 
-## 二十一章 奇异值分解和极坐标形式
+## 第二十一章 奇异值分解和极坐标形式 <a id="er-shi-yi-zhang-qi-yi-zhi-fen-jie-he-ji-zuo-biao-xing-shi"></a>
 
 * [21.1 f \*◦f的性质](er-shi-yi-zhang-qi-yi-zhi-fen-jie-he-ji-zuo-biao-xing-shi/21.1-ffde-xing-zhi.md)
 * [21.2 平方矩阵的奇异值分解](er-shi-yi-zhang-qi-yi-zhi-fen-jie-he-ji-zuo-biao-xing-shi/21.2-ping-fang-ju-zhen-de-qi-yi-zhi-fen-jie.md)
@@ -231,7 +231,7 @@
 * [21.6 小结](er-shi-yi-zhang-qi-yi-zhi-fen-jie-he-ji-zuo-biao-xing-shi/21.6-xiao-jie.md)
 * [21.7 答疑](er-shi-yi-zhang-qi-yi-zhi-fen-jie-he-ji-zuo-biao-xing-shi/21.7-da-yi.md)
 
-## 二十二章 SVD和伪逆的应用
+## 第二十二章 SVD和伪逆的应用 <a id="er-shi-er-zhang-svd-he-wei-ni-de-ying-yong"></a>
 
 * [22.1 最小二乘问题和伪逆](er-shi-er-zhang-svd-he-wei-ni-de-ying-yong/22.1-zui-xiao-er-cheng-wen-ti-he-wei-ni.md)
 * [22.2 伪逆的性质](er-shi-er-zhang-svd-he-wei-ni-de-ying-yong/22.2-wei-ni-de-xing-zhi.md)
@@ -241,7 +241,7 @@
 * [22.6 小结](er-shi-er-zhang-svd-he-wei-ni-de-ying-yong/22.6-xiao-jie.md)
 * [22.7 答疑](er-shi-er-zhang-svd-he-wei-ni-de-ying-yong/22.7-da-yi.md)
 
-## 二十三章 仿射几何基础
+## 第二十三章 仿射几何基础 <a id="er-shi-san-zhang-fang-she-ji-he-ji-chu"></a>
 
 * [23.1 仿射空间](er-shi-san-zhang-fang-she-ji-he-ji-chu/23.1-fang-she-kong-jian.md)
 * [23.2 仿射空间的例子](er-shi-san-zhang-fang-she-ji-he-ji-chu/23.2-fang-she-kong-jian-de-li-zi.md)
@@ -255,14 +255,14 @@
 * [23.10 仿射超平面](er-shi-san-zhang-fang-she-ji-he-ji-chu/23.10-fang-she-chao-ping-mian.md)
 * [23.11 仿射空间的交集](er-shi-san-zhang-fang-she-ji-he-ji-chu/23.11-fang-she-kong-jian-de-jiao-ji.md)
 
-## 二十四章 在向量空间中嵌入仿射空间
+## 第二十四章 在向量空间中嵌入仿射空间 <a id="er-shi-si-zhang-zai-xiang-liang-kong-jian-zhong-qian-ru-fang-she-kong-jian"></a>
 
 * [24.1 “帽子结构”或同质化](er-shi-si-zhang-zai-xiang-liang-kong-jian-zhong-qian-ru-fang-she-kong-jian/24.1-mao-zi-jie-gou-huo-tong-zhi-hua.md)
 * [24.2 E的仿射框架和Eˆ的基](er-shi-si-zhang-zai-xiang-liang-kong-jian-zhong-qian-ru-fang-she-kong-jian/24.2-e-de-fang-she-kuang-jia-heede-ji.md)
 * [24.3 Eˆ的另一种构造](er-shi-si-zhang-zai-xiang-liang-kong-jian-zhong-qian-ru-fang-she-kong-jian/24.3-e-de-ling-yi-zhong-gou-zao.md)
 * [24.4 仿射映射到线性映射的扩展](er-shi-si-zhang-zai-xiang-liang-kong-jian-zhong-qian-ru-fang-she-kong-jian/24.4-fang-she-ying-she-dao-xian-xing-ying-she-de-kuo-zhan.md)
 
-## 二十五章 投影几何基础
+## 第二十五章 投影几何基础 <a id="er-shi-wu-zhang-tou-ying-ji-he-ji-chu"></a>
 
 * [25.1 为什么是投影空间？](er-shi-wu-zhang-tou-ying-ji-he-ji-chu/25.1-wei-shen-me-shi-tou-ying-kong-jian.md)
 * [25.2 射影空间](er-shi-wu-zhang-tou-ying-ji-he-ji-chu/25.2-she-ying-kong-jian.md)
@@ -281,7 +281,7 @@
 * [25.15 投影空间上的相似结构](er-shi-wu-zhang-tou-ying-ji-he-ji-chu/25.15-tou-ying-kong-jian-shang-de-xiang-si-jie-gou.md)
 * [25.16 投影几何的一些应用](er-shi-wu-zhang-tou-ying-ji-he-ji-chu/25.16-tou-ying-ji-he-de-yi-xie-ying-yong.md)
 
-## 二十六章 cartan-dieudon'e定理
+## 第二十六章 cartan-dieudon'e定理 <a id="er-shi-liu-zhang-cartandieudone-ding-li"></a>
 
 * [26.1 线性等距的cartan-dieudonn'e定理](er-shi-liu-zhang-cartandieudone-ding-li/26.1-xian-xing-deng-ju-de-cartandieudonne-ding-li.md)
 * [26.2 仿射等距\(刚性运动\)](er-shi-liu-zhang-cartandieudone-ding-li/26.2-fang-she-deng-ju-gang-xing-yun-dong.md)
@@ -289,12 +289,12 @@
 * [26.4 仿射等距和定点](er-shi-liu-zhang-cartandieudone-ding-li/26.4-fang-she-deng-ju-he-ding-dian.md)
 * [26.5 仿射等距的cartan-dieudonn'e定理](er-shi-liu-zhang-cartandieudone-ding-li/26.5-fang-she-deng-ju-de-cartandieudonne-ding-li.md)
 
-## 二十七章 Hermitian空间的等距性
+## 第二十七章 Hermitian空间的等距性 <a id="er-shi-qi-zhang-hermitian-kong-jian-de-deng-ju-xing"></a>
 
 * [27.1 Cartan–Dieudonn´e定理，埃尔米特案例](er-shi-qi-zhang-hermitian-kong-jian-de-deng-ju-xing/27.1-cartandieudonne-ding-li-ai-er-mi-te-an-li.md)
 * [27.2 仿射等距\(刚性运动\)](er-shi-qi-zhang-hermitian-kong-jian-de-deng-ju-xing/27.2-fang-she-deng-ju-gang-xing-yun-dong.md)
 
-## 二十八章 双线性形式的几何;Witt定理
+## 第二十八章 双线性形式的几何;Witt定理 <a id="er-shi-ba-zhang-shuang-xian-xing-xing-shi-de-ji-he-witt-ding-li"></a>
 
 * [28.1 双线性形式](er-shi-ba-zhang-shuang-xian-xing-xing-shi-de-ji-he-witt-ding-li/28.1-shuang-xian-xing-xing-shi.md)
 * [28.2 半线性形式](er-shi-ba-zhang-shuang-xian-xing-xing-shi-de-ji-he-witt-ding-li/28.2-ban-xian-xing-xing-shi.md)
@@ -307,7 +307,7 @@
 * [28.9 正交群和Cartan–Dieudonnée定理](er-shi-ba-zhang-shuang-xian-xing-xing-shi-de-ji-he-witt-ding-li/28.9-zheng-jiao-qun-he-cartandieudonne-ding-li.md)
 * [28.10 witt定理](er-shi-ba-zhang-shuang-xian-xing-xing-shi-de-ji-he-witt-ding-li/28.10-witt-ding-li.md)
 
-## 二十九章 多项式、想法与PID's
+## 第二十九章 多项式、想法与PID's <a id="er-shi-jiu-zhang-duo-xiang-shi-xiang-fa-yu-pids"></a>
 
 * [29.1 多集](er-shi-jiu-zhang-duo-xiang-shi-xiang-fa-yu-pids/29.1-duo-ji.md)
 * [29.2 多项式](er-shi-jiu-zhang-duo-xiang-shi-xiang-fa-yu-pids/29.2-duo-xiang-shi.md)
@@ -317,7 +317,7 @@
 * [29.6 多项式的根](er-shi-jiu-zhang-duo-xiang-shi-xiang-fa-yu-pids/29.6-duo-xiang-shi-de-gen.md)
 * [29.7 多项式插值\(拉格朗日，牛顿，埃尔米特\)](er-shi-jiu-zhang-duo-xiang-shi-xiang-fa-yu-pids/29.7-duo-xiang-shi-cha-zhi-la-ge-lang-ri-niu-dun-ai-er-mi-te.md)
 
-## 三十章 剪除多项式;主分解
+## 第三十章 剪除多项式;主分解 <a id="san-shi-zhang-jian-chu-duo-xiang-shi-zhu-fen-jie"></a>
 
 * [30.1 剪除多项式和最小多项式](san-shi-zhang-jian-chu-duo-xiang-shi-zhu-fen-jie/30.1-jian-chu-duo-xiang-shi-he-zui-xiao-duo-xiang-shi.md)
 * [30.2 可对角线性映射的最小多项式](san-shi-zhang-jian-chu-duo-xiang-shi-zhu-fen-jie/30.2-ke-dui-jiao-xian-xing-ying-she-de-zui-xiao-duo-xiang-shi.md)

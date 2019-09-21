@@ -505,3 +505,13 @@
 * [49.13 Uzawa法](di-si-shi-jiu-zhang-fei-xian-xing-you-hua-dao-lun/49.13-uzawa-fa.md)
 * [49.14 小结](di-si-shi-jiu-zhang-fei-xian-xing-you-hua-dao-lun/49.14-xiao-jie.md)
 
+## 第五十章 次梯度和次微分
+
+* [50.1 扩展的实值凸函数](di-wu-shi-zhang-ci-ti-du-he-ci-wei-fen/50.1-kuo-zhan-de-shi-zhi-tu-han-shu.md)
+* [50.2 次梯度和次微分](di-wu-shi-zhang-ci-ti-du-he-ci-wei-fen/50.2-ci-ti-du-he-ci-wei-fen.md)
+* [50.3 次梯度和次微分的基本性质](di-wu-shi-zhang-ci-ti-du-he-ci-wei-fen/50.3-ci-ti-du-he-ci-wei-fen-de-ji-ben-xing-zhi.md)
+* [50.4 次微分的其他性质](di-wu-shi-zhang-ci-ti-du-he-ci-wei-fen/50.4-ci-wei-fen-de-qi-ta-xing-zhi.md)
+* [50.5 适当凸函数的最小值](di-wu-shi-zhang-ci-ti-du-he-ci-wei-fen/50.5-kuo-dang-tu-han-shu-de-zui-xiao-zhi.md)
+* [50.6 拉格朗日框架的推广](di-wu-shi-zhang-ci-ti-du-he-ci-wei-fen/50.6-la-ge-lang-ri-kuang-jia-de-tui-guang.md)
+* [50.7 小结](di-wu-shi-zhang-ci-ti-du-he-ci-wei-fen/50.7-xiao-jie.md)
+

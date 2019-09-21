@@ -188,3 +188,15 @@
 * [16.8 小结](shi-liu-zhang-pu-ding-li/16.8-xiao-jie.md)
 * [16.9 答疑](shi-liu-zhang-pu-ding-li/16.9-da-yi.md)
 
+## 十七章 计算特征值和特征向量
+
+* [17.1 基本QR算法](shi-qi-zhang-ji-suan-te-zheng-zhi-he-te-zheng-xiang-liang/17.1-ji-ben-qr-suan-fa.md)
+* [17.2 黑森伯格矩阵](shi-qi-zhang-ji-suan-te-zheng-zhi-he-te-zheng-xiang-liang/17.2-hei-sen-bo-ge-ju-zhen.md)
+* [17.3 使用移位使QR方法更有效](shi-qi-zhang-ji-suan-te-zheng-zhi-he-te-zheng-xiang-liang/17.3-shi-yong-yi-wei-shi-qr-fang-fa-geng-you-xiao.md)
+* [17.4 Krylov子空间; Arnoldi迭代](shi-qi-zhang-ji-suan-te-zheng-zhi-he-te-zheng-xiang-liang/17.4-krylov-zi-kong-jian-arnoldi-die-dai.md)
+* [17.5 GMRES](shi-qi-zhang-ji-suan-te-zheng-zhi-he-te-zheng-xiang-liang/17.5-gmres.md)
+* [17.6 埃尔米特案例； Lanczos迭代](shi-qi-zhang-ji-suan-te-zheng-zhi-he-te-zheng-xiang-liang/17.6-ai-er-mi-te-an-li-lanczos-die-dai.md)
+* [17.7 电源方法](shi-qi-zhang-ji-suan-te-zheng-zhi-he-te-zheng-xiang-liang/17.7-dian-yuan-fang-fa.md)
+* [17.8 小结](shi-qi-zhang-ji-suan-te-zheng-zhi-he-te-zheng-xiang-liang/17.8-xiao-jie.md)
+* [17.9 答疑](shi-qi-zhang-ji-suan-te-zheng-zhi-he-te-zheng-xiang-liang/17.9-da-yi.md)
+

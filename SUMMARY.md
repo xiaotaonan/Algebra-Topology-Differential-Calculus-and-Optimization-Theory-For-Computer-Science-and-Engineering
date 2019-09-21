@@ -467,3 +467,8 @@
 * [46.5 对偶单纯形算法](di-si-shi-liu-zhang-xian-xing-gui-hua-he-dui-ou/46.5-dui-ou-dan-chun-xing-suan-fa.md)
 * [46.6 原始对偶算法](di-si-shi-liu-zhang-xian-xing-gui-hua-he-dui-ou/46.6-yuan-shi-dui-ou-suan-fa.md)
 
+## 第四十七章 Hilbert空间的基础
+
+* [47.1 投影引理，对偶](di-si-shi-qi-zhang-hilbert-kong-jian-de-ji-chu/47.1-tou-ying-yin-li-dui-ou.md)
+* [47.2 Hilbert空间中的Farkas–Minkowski引理](di-si-shi-qi-zhang-hilbert-kong-jian-de-ji-chu/47.2-hilbert-kong-jian-zhong-de-farkasminkowski-yin-li.md)
+

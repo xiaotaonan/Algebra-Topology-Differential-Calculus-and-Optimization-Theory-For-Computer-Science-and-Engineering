@@ -142,3 +142,15 @@
 * [12.3 小结](shi-er-zhang-ren-yi-ju-zhen-de-qr-fen-jie/12.3-xiao-jie.md)
 * [12.4 答疑](shi-er-zhang-ren-yi-ju-zhen-de-qr-fen-jie/12.4-da-yi.md)
 
+## 十三章 Hermitian空间
+
+* [13.1 埃尔米特空间，希尔伯特前空间](shi-san-zhang-hermitian-kong-jian/13.1-ai-er-mi-te-kong-jian-xi-er-bo-te-qian-kong-jian.md)
+* [13.2 线性映射的正交性，对偶性，伴随性](shi-san-zhang-hermitian-kong-jian/13.2-xian-xing-ying-she-de-zheng-jiao-xing-dui-ou-xing-ban-sui-xing.md)
+* [13.3 线性异构体（也称为Unit变换）](shi-san-zhang-hermitian-kong-jian/13.3-xian-xing-yi-gou-ti-ye-cheng-wei-unit-bian-huan.md)
+* [13.4 ary群，Unit矩阵](shi-san-zhang-hermitian-kong-jian/13.4-ary-qun-unit-ju-zhen.md)
+* [13.5 埃尔米特反射与QR分解](shi-san-zhang-hermitian-kong-jian/13.5-ai-er-mi-te-fan-she-yu-qr-fen-jie.md)
+* [13.6 正交投影和对合](shi-san-zhang-hermitian-kong-jian/13.6-zheng-jiao-tou-ying-he-dui-he.md)
+* [13.7 双重范数](shi-san-zhang-hermitian-kong-jian/13.7-shuang-zhong-fan-shu.md)
+* [13.8 小结](shi-san-zhang-hermitian-kong-jian/13.8-xiao-jie.md)
+* [13.9 答疑](shi-san-zhang-hermitian-kong-jian/13.9-da-yi.md)
+

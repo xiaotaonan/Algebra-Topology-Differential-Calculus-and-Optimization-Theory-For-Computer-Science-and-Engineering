@@ -426,3 +426,10 @@
 * [40.2 牛顿方法的推广](di-si-shi-zhang-niu-dun-fa-ji-qi-tui-guang/40.2-niu-dun-fang-fa-de-tui-guang.md)
 * [40.3 小结](di-si-shi-zhang-niu-dun-fa-ji-qi-tui-guang/40.3-xiao-jie.md)
 
+## 第四十一章 二次优化问题
+
+* [41.1 二次优化：正定情况](di-si-shi-yi-zhang-er-ci-you-hua-wen-ti/41.1-er-ci-you-hua-zheng-ding-qing-kuang.md)
+* [41.2 二次优化：一般情况](di-si-shi-yi-zhang-er-ci-you-hua-wen-ti/41.2-er-ci-you-hua-yi-ban-qing-kuang.md)
+* [41.3 单位球面上二次函数的最大化](di-si-shi-yi-zhang-er-ci-you-hua-wen-ti/41.3-dan-wei-qiu-mian-shang-er-ci-han-shu-de-zui-da-hua.md)
+* [41.4 小结](di-si-shi-yi-zhang-er-ci-you-hua-wen-ti/41.4-xiao-jie.md)
+

@@ -364,3 +364,12 @@
 * [33.10 向量值交替形式](di-san-shi-san-zhang-wai-zhang-liang-mi-yu-wai-dai-shu/33.10-xiang-liang-zhi-jiao-ti-xing-shi.md)
 * [33.11 答疑](di-san-shi-san-zhang-wai-zhang-liang-mi-yu-wai-dai-shu/33.11-da-yi.md)
 
+## 第三十四章 模块简介;PID上的模块
+
+* [34.1 交换环上的模块](di-san-shi-si-zhang-mo-kuai-jian-jie-pid-shang-de-mo-kuai/34.1-jiao-huan-huan-shang-de-mo-kuai.md)
+* [34.2 模块的有限表示](di-san-shi-si-zhang-mo-kuai-jian-jie-pid-shang-de-mo-kuai/34.2-mo-kuai-de-you-xian-biao-shi.md)
+* [34.3 交换环上模的张量积](di-san-shi-si-zhang-mo-kuai-jian-jie-pid-shang-de-mo-kuai/34.3-jiao-huan-huan-shang-mo-de-zhang-liang-ji.md)
+* [34.4 pid上的扭转模;主分解](di-san-shi-si-zhang-mo-kuai-jian-jie-pid-shang-de-mo-kuai/34.4-pid-shang-de-niu-zhuan-mo-zhu-fen-jie.md)
+* [34.5 PID上的有限生成模块](di-san-shi-si-zhang-mo-kuai-jian-jie-pid-shang-de-mo-kuai/34.5-pid-shang-de-you-xian-sheng-cheng-mo-kuai.md)
+* [34.6 标量环的扩张](di-san-shi-si-zhang-mo-kuai-jian-jie-pid-shang-de-mo-kuai/34.6-biao-liang-huan-de-kuo-zhang.md)
+

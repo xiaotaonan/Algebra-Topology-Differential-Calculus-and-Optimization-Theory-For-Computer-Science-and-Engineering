@@ -65,7 +65,7 @@
 * [6.10 延展阅读](di-liu-zhang-jue-ding-yin-su/6.10-yan-zhan-yue-du.md)
 * [6.11 答疑](di-liu-zhang-jue-ding-yin-su/6.11-da-yi.md)
 
-## 第7章 高斯消元，LU，Cholesky，梯队形式
+## 第七章 高斯消元，LU，Cholesky，梯队形式 <a id="di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi"></a>
 
 * [7.1 激励示例：曲线插值](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.1-ji-li-shi-li-qu-xian-cha-zhi.md)
 * [7.2 高斯消元](di-7-zhang-gao-si-xiao-yuan-lucholesky-ti-dui-xing-shi/7.2-gao-si-xiao-yuan.md)

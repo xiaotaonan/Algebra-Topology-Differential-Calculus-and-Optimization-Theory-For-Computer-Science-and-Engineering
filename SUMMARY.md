@@ -24,3 +24,12 @@
 * [2.10 小结](di-er-zhang-xiang-liang-kong-jian-ji-yu-xian-xing-ying-she/2.10-xiao-jie.md)
 * [2.11 答疑](di-er-zhang-xiang-liang-kong-jian-ji-yu-xian-xing-ying-she/2.11-da-yi.md)
 
+## 第三章 矩阵和线性映射
+
+* [3.1 矩阵表示的线性图](di-san-zhang-ju-zhen-he-xian-xing-ying-she/3.1-ju-zhen-biao-shi-de-xian-xing-tu.md)
+* [3.2 线性映射和矩阵乘法的组合](di-san-zhang-ju-zhen-he-xian-xing-ying-she/3.2-xian-xing-ying-she-he-ju-zhen-cheng-fa-de-zu-he.md)
+* [3.3 基矩阵的变化](di-san-zhang-ju-zhen-he-xian-xing-ying-she/3.3-ji-ju-zhen-de-bian-hua.md)
+* [3.4 基变化对矩阵的影响](di-san-zhang-ju-zhen-he-xian-xing-ying-she/3.4-ji-bian-hua-dui-ju-zhen-de-ying-xiang.md)
+* [3.5 小结](di-san-zhang-ju-zhen-he-xian-xing-ying-she/3.5-xiao-jie.md)
+* [3.6 答疑](di-san-zhang-ju-zhen-he-xian-xing-ying-she/3.6-da-yi.md)
+

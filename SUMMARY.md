@@ -206,3 +206,12 @@
 * [18.2 二维问题：弹性膜](shi-ba-zhang-you-xian-yuan-fa-jian-jie/18.2-er-wei-wen-ti-tan-xing-mo.md)
 * [18.3 时变边界问题](shi-ba-zhang-you-xian-yuan-fa-jian-jie/18.3-shi-bian-bian-jie-wen-ti.md)
 
+## 十九章 图和图拉普拉斯算子;基本事实
+
+* [19.1 有向图,无向图,加权图](shi-jiu-zhang-tu-he-tu-la-pu-la-si-suan-zi-ji-ben-shi-shi/19.1-you-xiang-tu-wu-xiang-tu-jia-quan-tu.md)
+* [19.2 图的拉普拉斯矩阵](shi-jiu-zhang-tu-he-tu-la-pu-la-si-suan-zi-ji-ben-shi-shi/19.2-tu-de-la-pu-la-si-ju-zhen.md)
+* [19.3 图的标准化拉普拉斯矩阵](shi-jiu-zhang-tu-he-tu-la-pu-la-si-suan-zi-ji-ben-shi-shi/19.3-tu-de-biao-zhun-hua-la-pu-la-si-ju-zhen.md)
+* [19.4 使用归一化分割的图聚类](shi-jiu-zhang-tu-he-tu-la-pu-la-si-suan-zi-ji-ben-shi-shi/19.4-shi-yong-gui-yi-hua-fen-ge-de-tu-ju-lei.md)
+* [19.5 小结](shi-jiu-zhang-tu-he-tu-la-pu-la-si-suan-zi-ji-ben-shi-shi/19.5-xiao-jie.md)
+* [19.6 答疑](shi-jiu-zhang-tu-he-tu-la-pu-la-si-suan-zi-ji-ben-shi-shi/19.6-da-yi.md)
+

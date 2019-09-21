@@ -307,3 +307,13 @@
 * [28.9 正交群和Cartan–Dieudonnée定理](er-shi-ba-zhang-shuang-xian-xing-xing-shi-de-ji-he-witt-ding-li/28.9-zheng-jiao-qun-he-cartandieudonne-ding-li.md)
 * [28.10 witt定理](er-shi-ba-zhang-shuang-xian-xing-xing-shi-de-ji-he-witt-ding-li/28.10-witt-ding-li.md)
 
+## 二十九章 多项式、想法与PID's
+
+* [29.1 多集](er-shi-jiu-zhang-duo-xiang-shi-xiang-fa-yu-pids/29.1-duo-ji.md)
+* [29.2 多项式](er-shi-jiu-zhang-duo-xiang-shi-xiang-fa-yu-pids/29.2-duo-xiang-shi.md)
+* [29.3 多项式的欧几里得除法](er-shi-jiu-zhang-duo-xiang-shi-xiang-fa-yu-pids/29.3-duo-xiang-shi-de-ou-ji-li-de-chu-fa.md)
+* [29.4 想法,PID's和最大公约数](er-shi-jiu-zhang-duo-xiang-shi-xiang-fa-yu-pids/29.4-xiang-fa-pids-he-zui-da-gong-yue-shu.md)
+* [29.5 K\[X\]中的因式分解和不可约因子](er-shi-jiu-zhang-duo-xiang-shi-xiang-fa-yu-pids/29.5-kx-zhong-de-yin-shi-fen-jie-he-bu-ke-yue-yin-zi.md)
+* [29.6 多项式的根](er-shi-jiu-zhang-duo-xiang-shi-xiang-fa-yu-pids/29.6-duo-xiang-shi-de-gen.md)
+* [29.7 多项式插值\(拉格朗日，牛顿，埃尔米特\)](er-shi-jiu-zhang-duo-xiang-shi-xiang-fa-yu-pids/29.7-duo-xiang-shi-cha-zhi-la-ge-lang-ri-niu-dun-ai-er-mi-te.md)
+

@@ -472,3 +472,19 @@
 * [47.1 投影引理，对偶](di-si-shi-qi-zhang-hilbert-kong-jian-de-ji-chu/47.1-tou-ying-yin-li-dui-ou.md)
 * [47.2 Hilbert空间中的Farkas–Minkowski引理](di-si-shi-qi-zhang-hilbert-kong-jian-de-ji-chu/47.2-hilbert-kong-jian-zhong-de-farkasminkowski-yin-li.md)
 
+## 第四十八章 优化理论的一般结果
+
+* [48.1 优化问题； 基本术语](di-si-shi-ba-zhang-you-hua-li-lun-de-yi-ban-jie-guo/48.1-you-hua-wen-ti-ji-ben-shu-yu.md)
+* [48.2 最优化问题解的存在性](di-si-shi-ba-zhang-you-hua-li-lun-de-yi-ban-jie-guo/48.2-zui-you-hua-wen-ti-jie-de-cun-zai-xing.md)
+* [48.3 二次泛函的极小值](di-si-shi-ba-zhang-you-hua-li-lun-de-yi-ban-jie-guo/48.3-er-ci-fan-han-de-ji-xiao-zhi.md)
+* [48.4 椭圆泛函](di-si-shi-ba-zhang-you-hua-li-lun-de-yi-ban-jie-guo/48.4-tuo-yuan-fan-han.md)
+* [48.5 无约束问题的迭代方法](di-si-shi-ba-zhang-you-hua-li-lun-de-yi-ban-jie-guo/48.5-wu-yue-shu-wen-ti-de-die-dai-fang-fa.md)
+* [48.6 无约束问题的梯度下降方法](di-si-shi-ba-zhang-you-hua-li-lun-de-yi-ban-jie-guo/48.6-wu-yue-shu-wen-ti-de-ti-du-xia-jiang-fang-fa.md)
+* [48.7 变步长梯度下降的收敛性](di-si-shi-ba-zhang-you-hua-li-lun-de-yi-ban-jie-guo/48.7-bian-bu-chang-ti-du-xia-jiang-de-shou-lian-xing.md)
+* [48.8 任意准则的最陡下降](di-si-shi-ba-zhang-you-hua-li-lun-de-yi-ban-jie-guo/48.8-ren-yi-zhun-ze-de-zui-dou-xia-jiang.md)
+* [48.9 牛顿求最小值的方法](di-si-shi-ba-zhang-you-hua-li-lun-de-yi-ban-jie-guo/48.9-niu-dun-qiu-zui-xiao-zhi-de-fang-fa.md)
+* [48.10 共轭梯度法 不受约束的问题](di-si-shi-ba-zhang-you-hua-li-lun-de-yi-ban-jie-guo/48.10-gongeti-du-fa-bu-shou-yue-shu-de-wen-ti.md)
+* [48.11 约束优化的梯度投影](di-si-shi-ba-zhang-you-hua-li-lun-de-yi-ban-jie-guo/48.11-yue-shu-you-hua-de-ti-du-tou-ying.md)
+* [48.12 约束优化的惩罚方法](di-si-shi-ba-zhang-you-hua-li-lun-de-yi-ban-jie-guo/48.12-yue-shu-you-hua-de-cheng-fa-fang-fa.md)
+* [48.13 小结](di-si-shi-ba-zhang-you-hua-li-lun-de-yi-ban-jie-guo/48.13-xiao-jie.md)
+

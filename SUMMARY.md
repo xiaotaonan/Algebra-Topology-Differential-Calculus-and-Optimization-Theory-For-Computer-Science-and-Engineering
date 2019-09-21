@@ -488,3 +488,20 @@
 * [48.12 约束优化的惩罚方法](di-si-shi-ba-zhang-you-hua-li-lun-de-yi-ban-jie-guo/48.12-yue-shu-you-hua-de-cheng-fa-fang-fa.md)
 * [48.13 小结](di-si-shi-ba-zhang-you-hua-li-lun-de-yi-ban-jie-guo/48.13-xiao-jie.md)
 
+## 第四十九章 非线性优化导论
+
+* [49.1 可行方向锥](di-si-shi-jiu-zhang-fei-xian-xing-you-hua-dao-lun/49.1-ke-hang-fang-xiang-zhui.md)
+* [49.2 活动约束和限定约束](di-si-shi-jiu-zhang-fei-xian-xing-you-hua-dao-lun/49.2-huo-dong-yue-shu-he-xian-ding-yue-shu.md)
+* [49.3 Karush–Kuhn–Tucker条件](di-si-shi-jiu-zhang-fei-xian-xing-you-hua-dao-lun/49.3-karushkuhntucker-tiao-jian.md)
+* [49.4 等式约束最小化](di-si-shi-jiu-zhang-fei-xian-xing-you-hua-dao-lun/49.4-deng-shi-yue-shu-zui-xiao-hua.md)
+* [49.5 硬保证金支持向量机； 版本I](di-si-shi-jiu-zhang-fei-xian-xing-you-hua-dao-lun/49.5-ying-bao-zheng-jin-zhi-chi-xiang-liang-ji-ban-ben-i.md)
+* [49.6 硬保证金支持向量机； 版本二](di-si-shi-jiu-zhang-fei-xian-xing-you-hua-dao-lun/49.6-ying-bao-zheng-jin-zhi-chi-xiang-liang-ji-ban-ben-er.md)
+* [49.7 拉格朗日对偶和鞍点](di-si-shi-jiu-zhang-fei-xian-xing-you-hua-dao-lun/49.7-la-ge-lang-ri-dui-ou-he-an-dian.md)
+* [49.8 弱而强的对偶](di-si-shi-jiu-zhang-fei-xian-xing-you-hua-dao-lun/49.8-ruo-er-qiang-de-dui-ou.md)
+* [49.9 显式处理相等约束](di-si-shi-jiu-zhang-fei-xian-xing-you-hua-dao-lun/49.9-xian-shi-chu-li-xiang-deng-yue-shu.md)
+* [49.10 硬边距支持向量机的对偶](di-si-shi-jiu-zhang-fei-xian-xing-you-hua-dao-lun/49.10-ying-bian-ju-zhi-chi-xiang-liang-ji-de-dui-ou.md)
+* [49.11 共轭函数和Legendre对偶函数](di-si-shi-jiu-zhang-fei-xian-xing-you-hua-dao-lun/49.11-gongehan-shu-he-legendre-dui-ou-han-shu.md)
+* [49.12 获得更有用的对偶程序的一些技巧](di-si-shi-jiu-zhang-fei-xian-xing-you-hua-dao-lun/49.12-huo-de-geng-you-yong-de-dui-ou-cheng-xu-de-yi-xie-ji-qiao.md)
+* [49.13 Uzawa法](di-si-shi-jiu-zhang-fei-xian-xing-you-hua-dao-lun/49.13-uzawa-fa.md)
+* [49.14 小结](di-si-shi-jiu-zhang-fei-xian-xing-you-hua-dao-lun/49.14-xiao-jie.md)
+

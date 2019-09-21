@@ -255,3 +255,10 @@
 * [23.10 仿射超平面](er-shi-san-zhang-fang-she-ji-he-ji-chu/23.10-fang-she-chao-ping-mian.md)
 * [23.11 仿射空间的交集](er-shi-san-zhang-fang-she-ji-he-ji-chu/23.11-fang-she-kong-jian-de-jiao-ji.md)
 
+## 二十四章 在向量空间中嵌入仿射空间
+
+* [24.1 “帽子结构”或同质化](er-shi-si-zhang-zai-xiang-liang-kong-jian-zhong-qian-ru-fang-she-kong-jian/24.1-mao-zi-jie-gou-huo-tong-zhi-hua.md)
+* [24.2 E的仿射框架和Eˆ的基](er-shi-si-zhang-zai-xiang-liang-kong-jian-zhong-qian-ru-fang-she-kong-jian/24.2-e-de-fang-she-kuang-jia-heede-ji.md)
+* [24.3 Eˆ的另一种构造](er-shi-si-zhang-zai-xiang-liang-kong-jian-zhong-qian-ru-fang-she-kong-jian/24.3-e-de-ling-yi-zhong-gou-zao.md)
+* [24.4 仿射映射到线性映射的扩展](er-shi-si-zhang-zai-xiang-liang-kong-jian-zhong-qian-ru-fang-she-kong-jian/24.4-fang-she-ying-she-dao-xian-xing-ying-she-de-kuo-zhan.md)
+

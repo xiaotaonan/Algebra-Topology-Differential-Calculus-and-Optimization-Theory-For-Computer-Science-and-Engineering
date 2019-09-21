@@ -515,3 +515,14 @@
 * [50.6 拉格朗日框架的推广](di-wu-shi-zhang-ci-ti-du-he-ci-wei-fen/50.6-la-ge-lang-ri-kuang-jia-de-tui-guang.md)
 * [50.7 小结](di-wu-shi-zhang-ci-ti-du-he-ci-wei-fen/50.7-xiao-jie.md)
 
+## 第五十一章 双重上升法;ADMM
+
+* [51.1 双重提升](di-wu-shi-yi-zhang-shuang-zhong-shang-sheng-fa-admm/51.1-shuang-zhong-ti-sheng.md)
+* [51.2 增强拉格朗日数和乘数法](di-wu-shi-yi-zhang-shuang-zhong-shang-sheng-fa-admm/51.2-zeng-qiang-la-ge-lang-ri-shu-he-cheng-shu-fa.md)
+* [51.3 ADMM:乘法器的交替方向方法](di-wu-shi-yi-zhang-shuang-zhong-shang-sheng-fa-admm/51.3-admm-cheng-fa-qi-de-jiao-ti-fang-xiang-fang-fa.md)
+* [51.4 ADMM的收敛](di-wu-shi-yi-zhang-shuang-zhong-shang-sheng-fa-admm/51.4-admm-de-shou-lian.md)
+* [51.5 停止条件](di-wu-shi-yi-zhang-shuang-zhong-shang-sheng-fa-admm/51.5-ting-zhi-tiao-jian.md)
+* [51.6 ADMM的一些应用](di-wu-shi-yi-zhang-shuang-zhong-shang-sheng-fa-admm/51.6-admm-de-yi-xie-ying-yong.md)
+* [51.7 ADMM在\`1-范数问题中的应用](di-wu-shi-yi-zhang-shuang-zhong-shang-sheng-fa-admm/51.7-admm-zai-1-fan-shu-wen-ti-zhong-de-ying-yong.md)
+* [51.8 小结](di-wu-shi-yi-zhang-shuang-zhong-shang-sheng-fa-admm/51.8-xiao-jie.md)
+

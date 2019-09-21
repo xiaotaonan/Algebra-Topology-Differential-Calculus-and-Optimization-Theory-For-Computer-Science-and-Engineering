@@ -154,3 +154,13 @@
 * [13.8 小结](shi-san-zhang-hermitian-kong-jian/13.8-xiao-jie.md)
 * [13.9 答疑](shi-san-zhang-hermitian-kong-jian/13.9-da-yi.md)
 
+## 十四章 特征向量和特征值
+
+* [14.1 线性映射的特征向量和特征值](shi-si-zhang-te-zheng-xiang-liang-he-te-zheng-zhi/14.1-xian-xing-ying-she-de-te-zheng-xiang-liang-he-te-zheng-zhi.md)
+* [14.2 简化为上三角形式](shi-si-zhang-te-zheng-xiang-liang-he-te-zheng-zhi/14.2-jian-hua-wei-shang-san-jiao-xing-shi.md)
+* [14.3 特征值的位置](shi-si-zhang-te-zheng-xiang-liang-he-te-zheng-zhi/14.3-te-zheng-zhi-de-wei-zhi.md)
+* [14.4 特征值问题的条件](shi-si-zhang-te-zheng-xiang-liang-he-te-zheng-zhi/14.4-te-zheng-zhi-wen-ti-de-tiao-jian.md)
+* [14.5 矩阵指数的特征值](shi-si-zhang-te-zheng-xiang-liang-he-te-zheng-zhi/14.5-ju-zhen-zhi-shu-de-te-zheng-zhi.md)
+* [14.6 小结](shi-si-zhang-te-zheng-xiang-liang-he-te-zheng-zhi/14.6-xiao-jie.md)
+* [14.7 答疑](shi-si-zhang-te-zheng-xiang-liang-he-te-zheng-zhi/14.7-da-yi.md)
+

@@ -439,3 +439,9 @@
 * [42.2 SPD矩阵和Schur补码](di-si-shi-er-zhang-schur-bu-ti-he-ying-yong/42.2-spd-ju-zhen-he-schur-bu-ma.md)
 * [42.3 SP半定矩阵和Schur补码](di-si-shi-er-zhang-schur-bu-ti-he-ying-yong/42.3-sp-ban-ding-ju-zhen-he-schur-bu-ma.md)
 
+## 第四十三章 凸集，锥，H-多面体
+
+* [43.1 什么是线性规划？](di-si-shi-san-zhang-tu-ji-zhuihduo-mian-ti/43.1-shen-me-shi-xian-xing-gui-hua.md)
+* [43.2 仿射子集，凸集，超平面，半空间](di-si-shi-san-zhang-tu-ji-zhuihduo-mian-ti/43.2-fang-she-zi-ji-tu-ji-chao-ping-mian-ban-kong-jian.md)
+* [43.3 锥体，多面锥体和H-多面体](di-si-shi-san-zhang-tu-ji-zhuihduo-mian-ti/43.3-zhui-ti-duo-mian-zhui-ti-hehduo-mian-ti.md)
+

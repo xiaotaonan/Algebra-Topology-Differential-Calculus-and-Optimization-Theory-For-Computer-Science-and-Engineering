@@ -135,3 +135,10 @@
 * [11.10 小结](di-shi-yi-zhang-ou-shi-kong-jian/11.10-xiao-jie.md)
 * [11.11 答疑](di-shi-yi-zhang-ou-shi-kong-jian/11.11-da-yi.md)
 
+## 十二章 任意矩阵的QR分解
+
+* [12.1 正交反射](shi-er-zhang-ren-yi-ju-zhen-de-qr-fen-jie/12.1-zheng-jiao-fan-she.md)
+* [12.2 使用Householders矩阵进行QR分解](shi-er-zhang-ren-yi-ju-zhen-de-qr-fen-jie/12.2-shi-yong-householders-ju-zhen-jin-hang-qr-fen-jie.md)
+* [12.3 小结](shi-er-zhang-ren-yi-ju-zhen-de-qr-fen-jie/12.3-xiao-jie.md)
+* [12.4 答疑](shi-er-zhang-ren-yi-ju-zhen-de-qr-fen-jie/12.4-da-yi.md)
+

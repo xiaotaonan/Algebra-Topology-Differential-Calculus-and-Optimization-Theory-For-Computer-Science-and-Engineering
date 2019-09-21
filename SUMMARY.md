@@ -458,3 +458,12 @@
 * [45.4 基于tableaux的单纯形算法](di-si-shi-wu-zhang-dan-chun-xing-suan-fa/45.4-ji-yu-tableaux-de-dan-chun-xing-suan-fa.md)
 * [45.5 单纯形法的计算效率](di-si-shi-wu-zhang-dan-chun-xing-suan-fa/45.5-dan-chun-xing-fa-de-ji-suan-xiao-lv.md)
 
+## 第四十六章 线性规划和对偶
+
+* [46.1 farkas引理的变体](di-si-shi-liu-zhang-xian-xing-gui-hua-he-dui-ou/46.1-farkas-yin-li-de-bian-ti.md)
+* [46.2 线性规划中的对偶定理](di-si-shi-liu-zhang-xian-xing-gui-hua-he-dui-ou/46.2-xian-xing-gui-hua-zhong-de-dui-ou-ding-li.md)
+* [46.3 互补松弛条件](di-si-shi-liu-zhang-xian-xing-gui-hua-he-dui-ou/46.3-hu-bu-song-chi-tiao-jian.md)
+* [46.4 标准形式线性规划的对偶性](di-si-shi-liu-zhang-xian-xing-gui-hua-he-dui-ou/46.4-biao-zhun-xing-shi-xian-xing-gui-hua-de-dui-ou-xing.md)
+* [46.5 对偶单纯形算法](di-si-shi-liu-zhang-xian-xing-gui-hua-he-dui-ou/46.5-dui-ou-dan-chun-xing-suan-fa.md)
+* [46.6 原始对偶算法](di-si-shi-liu-zhang-xian-xing-gui-hua-he-dui-ou/46.6-yuan-shi-dui-ou-suan-fa.md)
+

@@ -526,3 +526,26 @@
 * [51.7 ADMM在\`1-范数问题中的应用](di-wu-shi-yi-zhang-shuang-zhong-shang-sheng-fa-admm/51.7-admm-zai-1-fan-shu-wen-ti-zhong-de-ying-yong.md)
 * [51.8 小结](di-wu-shi-yi-zhang-shuang-zhong-shang-sheng-fa-admm/51.8-xiao-jie.md)
 
+## 第五十二章 岭回归和套索回归
+
+* [52.1 岭回归](di-wu-shi-er-zhang-ling-hui-gui-he-tao-suo-hui-gui/52.1-ling-hui-gui.md)
+* [52.2 套索回归\(\`1-正则回归\)](di-wu-shi-er-zhang-ling-hui-gui-he-tao-suo-hui-gui/52.2-tao-suo-hui-gui-1-zheng-ze-hui-gui.md)
+* [52.3 小结](di-wu-shi-er-zhang-ling-hui-gui-he-tao-suo-hui-gui/52.3-xiao-jie.md)
+
+## 第五十三章 正定核
+
+* [53.1 正定核的基本性质](di-wu-shi-san-zhang-zheng-ding-he/53.1-zheng-ding-he-de-ji-ben-xing-zhi.md)
+* [53.2 正核的Hilbert空间表示](di-wu-shi-san-zhang-zheng-ding-he/53.2-zheng-he-de-hilbert-kong-jian-biao-shi.md)
+* [53.3 内核PCA](di-wu-shi-san-zhang-zheng-ding-he/53.3-nei-he-pca.md)
+* [53.4 n-SV回归](di-wu-shi-san-zhang-zheng-ding-he/53.4-nsv-hui-gui.md)
+
+## 第五十四章 软保证金支持向量机
+
+* [54.1 软保证金支持向量机;\(SVMs1\)](di-wu-shi-si-zhang-ruan-bao-zheng-jin-zhi-chi-xiang-liang-ji/54.1-ruan-bao-zheng-jin-zhi-chi-xiang-liang-ji-svms1.md)
+* [54.2 软保证金支持向量机;（SVMs2）](di-wu-shi-si-zhang-ruan-bao-zheng-jin-zhi-chi-xiang-liang-ji/54.2-ruan-bao-zheng-jin-zhi-chi-xiang-liang-ji-svms2.md)
+* [54.3 软保证金支持向量机;\(SVMs2'\)](di-wu-shi-si-zhang-ruan-bao-zheng-jin-zhi-chi-xiang-liang-ji/54.3-ruan-bao-zheng-jin-zhi-chi-xiang-liang-ji-svms2.md)
+* [54.4 软保证金SVM;\(SVMs3\)](di-wu-shi-si-zhang-ruan-bao-zheng-jin-zhi-chi-xiang-liang-ji/54.4-ruan-bao-zheng-jin-svmsvms3.md)
+* [54.5 软保证金支持向量机;（SVMs4）](di-wu-shi-si-zhang-ruan-bao-zheng-jin-zhi-chi-xiang-liang-ji/54.5-ruan-bao-zheng-jin-zhi-chi-xiang-liang-ji-svms4.md)
+* [54.5 软保证金SVM;\(SVMs5\)](di-wu-shi-si-zhang-ruan-bao-zheng-jin-zhi-chi-xiang-liang-ji/54.5-ruan-bao-zheng-jin-svmsvms5.md)
+* [54.6 SVM方法的总结和比较](di-wu-shi-si-zhang-ruan-bao-zheng-jin-zhi-chi-xiang-liang-ji/54.6-svm-fang-fa-de-zong-jie-he-bi-jiao.md)
+

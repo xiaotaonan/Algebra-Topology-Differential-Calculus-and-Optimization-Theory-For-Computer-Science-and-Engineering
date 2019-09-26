@@ -22,7 +22,17 @@ $$\left ( G3 \right ) $$ 对于每个 $$a\in G$$ 的元素，必定存在 $$a^{-
 
 2.用恒等元素0通过加法使有理数 \( $$p,q\in \mathbb{Z}$$ 且 $$q\neq 0$$ 的分数 $$p/q$$ \)$$\mathbb{Q}$$ 集合成为一个阿贝尔群。用恒等元素1通过乘法使 $$\mathbb{Q}^{\ast }= \mathbb{Q}-\left \{ 0 \right \}$$ 也成为一个阿贝尔群。
 
-3.给任何一个非空集合S， $$\int :S\rightarrow S$$ 映射的集合，常常称为S的组合，是一个群通过组合方法\(f和g的乘积是 $$g\circ f$$ 的组合\)，通过恒等函数 $$id_{S}$$ 的恒等元素
+3.通过恒等函数 $$id_{S}$$ 的恒等元素给任何一个非空集合S，通过组合方法\(f和g的乘积是 $$g\circ f$$ 的组合\)， $$\int :S\rightarrow S$$ 映射的集合，常常称为S的组合，是一个群。只要S有两个以上的元素，这个群就不是阿贝尔群。 $$S=\left \{ 1,...,n \right \}$$ 集合的排列群常常表示为 $$S_{n}$$ 和称为n个元素上的对称群。
+
+4.对于任何一个 $$p\in \mathbb{N}$$ 的正整数， $$\mathbb{Z}$$ 上关系的定义表示 $$m\equiv n$$ \(mod p\),如下: 存在 $$k\in \mathbb{Z}$$，当 $$m-p= kp$$，则 $$m\equiv n$$ \(mod p\) 。
+
+读者可以明显的看出这是一个相等关系，并且，除此之外，它与加法和乘法兼容，这意味着如果 $$m_{1}\equiv n_{1}$$ \(mod p\)和 $$m_{2}\equiv n_{2}$$ \(mod p\)，那么 $$m_{1}+m_{2}\equiv n_{1}+ n_{2}$$ \(mod p\)和 $$m_{1}m_{2}\equiv n_{1}n_{2}$$ \(mod p\)。因此，我们可以定义一个加法和乘法的等价类的集合（mod p）:
+
+$$\left [ m \right ]+\left [ n \right ]= \left [ m+n \right ]$$ 和 $$\left [ m \right ]\cdot \left [ n \right ]= \left [ m\cdot n \right ]$$ 
+
+读者可以明显的看出使用 $$\left [ 0 \right ]$$ 作为0通过剩余类\(mod p\)的加法生成阿贝尔群结构。这个群表示为 $$\mathbb{Z}/p\mathbb{Z}$$ 。
+
+5.
 
 
 

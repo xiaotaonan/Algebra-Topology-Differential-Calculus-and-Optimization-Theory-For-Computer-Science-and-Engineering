@@ -32,7 +32,7 @@ $$\left [ m \right ]+\left [ n \right ]= \left [ m+n \right ]$$ 和 $$\left [ m 
 
 读者可以明显的看出使用 $$\left [ 0 \right ]$$ 作为0通过剩余类\(mod p\)的加法生成阿贝尔群结构。这个群表示为 $$\mathbb{Z}/p\mathbb{Z}$$ 。
 
-5.
+5. $$n\times n$$ 的集合的可逆矩阵通过 $$\mathbb{I}_{n}$$恒等矩阵的恒等元素和实\(复\)数集的矩阵乘法是一个群。 这个群称为一般线性群和常常表示为 $$GL\left ( n,\mathbb{R} \right )$$ 或者 $$GL\left ( n,\mathbb{C}\right )$$ 。
 
 
 
